@@ -11,6 +11,13 @@
 
 ### Séance 1
 
+- Introduction à la programmation, notion d'algorithme
+- Généralités sur Python (chapitre 1)
+- Variables (chapitre 2)
+- Affichage (chapitre 3)
+- Listes (chapitre 4)
+- Plus : début des boucles (chapitre 5)
+
 ### Séance 2
 
 ### Séance 3
