@@ -27,6 +27,7 @@ Dans ce cours, nous allons voir les bases du langage Python. Au-delà de l'aspec
 Lundi 28 janvier : 13h30 - 16h30
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
+
 Helpers : ?
 
 - Introduction à la programmation, notion d'algorithme
@@ -41,6 +42,7 @@ Helpers : ?
 Mercredi 30 janvier : 13h30 - 16h30
 
 Instructeurs : Patrick Fuchs et ?
+
 Helpers : ?
 
 - Boucles (suite et fin du chapitre 5)
@@ -62,6 +64,7 @@ Helpers : ?
 Mercredi 6 février : 13h30 - 16h30
 
 Instructeurs : Patrick Fuchs et ?
+
 Helpers : ?
 
 - Fonctions (chapitre 9)
@@ -72,6 +75,7 @@ Helpers : ?
 Lundi 18 février : 10h30 - 13h
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
+
 Helpers : ?
 
 - Aller plus loin avec les fonctions (chapitre 12)
@@ -82,6 +86,7 @@ Helpers : ?
 Mecredi 20 février : 10h - 13h
 
 Instructeurs : Patrick Fuchs et ?
+
 Helpers : ?
 
 - Création de modules (chapitre 14)
