@@ -20,7 +20,7 @@ Nous vous suggérons de prendre connaissance des 3 premiers chapitres en lecture
 
 ## Synopsis
 
-Dans ce cours, nous allons voir les bases du langage Python. Au-delà de l'aspect programmation nous allons voir progressivement les bases de l'algorithmie.
+Dans ce cours, nous allons voir les bases du langage Python. Au-delà de l'aspect programmation, nous allons voir progressivement quelques bases d'algorithmie, c'est-à-dire comment transformer un problème, énoncé en français, en une suite d'instructions informatiques.
 
 ### Séance 1
 
