@@ -10,7 +10,6 @@ Bienvenue au cours de Python du DU Bii. Vous trouverez sur ce dépôt toutes les
 1. Patrick Fuchs (co-responsable)
 2. Sandra Dérozier (co-responsable)
 3. Hubert Santuz
-4. Benoist Laurent ?
 
 ## Prérequis
 
@@ -28,8 +27,6 @@ Lundi 28 janvier : 13h30 - 16h30
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
 
-Helpers : ?
-
 - Introduction à la programmation, notion d'algorithme
 - Généralités sur Python (chapitre 1)
 - Variables (chapitre 2)
@@ -41,9 +38,7 @@ Helpers : ?
 
 Mercredi 30 janvier : 13h30 - 16h30
 
-Instructeurs : Patrick Fuchs et ?
-
-Helpers : ?
+Instructeurs : Patrick Fuchs et Hubert Santuz
 
 - Boucles (suite et fin du chapitre 5)
 - Tests (chapitre 6)
@@ -54,7 +49,6 @@ Helpers : ?
 Lundi 4 février : 13h30 - 16h30
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
-Helpers : ?
 
 - Modules (chapitre 8)
 - Aller plus loin avec les chaines de caractères (chapitre 10)
@@ -63,9 +57,7 @@ Helpers : ?
 
 Mercredi 6 février : 13h30 - 16h30
 
-Instructeurs : Patrick Fuchs et ?
-
-Helpers : ?
+Instructeurs : Patrick Fuchs et Hubert Santuz
 
 - Fonctions (chapitre 9)
 - Aller plus loin avec les listes (chapitre 11)
@@ -76,8 +68,6 @@ Lundi 18 février : 10h30 - 13h
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
 
-Helpers : ?
-
 - Aller plus loin avec les fonctions (chapitre 12)
 - Dictionnaires/tuples (chapitre 13)
 
@@ -85,9 +75,7 @@ Helpers : ?
 
 Mecredi 20 février : 10h - 13h
 
-Instructeurs : Patrick Fuchs et ?
-
-Helpers : ?
+Instructeurs : Patrick Fuchs et Hubert Santuz
 
 - Création de modules (chapitre 14)
 - Récapitulation des concepts
