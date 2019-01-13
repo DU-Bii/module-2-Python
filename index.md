@@ -11,6 +11,8 @@ Bienvenue au cours de Python du DU Bii. Vous trouverez sur ce dépôt toutes les
 
 Le cours se trouve ici : <https://python.sdv.univ-paris-diderot.fr/>.
 
+Pour commencer, vous pouvez lire rapidement ce [pdf](intro_prog_format_donnees.pdf) synthétisant le principe de la programmation.
+
 Nous vous suggérons de prendre connaissance des 3 premiers chapitres du lien ci-desssus, en lecture passive (sans réaliser les exercices), et seulement les 3 premiers !
 
 Pour info, nous comptons aller du chapitre 1 à 13 au cours de la formation.
