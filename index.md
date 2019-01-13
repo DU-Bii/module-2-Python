@@ -1,5 +1,3 @@
-# DUBii-2-Python
-
 ![](img/logo_python.png)
 
 Bienvenue au cours de Python du DU Bii. Vous trouverez sur ce dépôt toutes les informations et ressources nécessaires.
