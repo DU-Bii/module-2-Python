@@ -82,10 +82,10 @@ Instructeurs : Patrick Fuchs et Hubert Santuz
 - Création de modules (chapitre 14)
 - Récapitulation des concepts
 
-## Access
+## Accès
 
 - Github: <https://github.com/DU-Bii/module-2-Python>
-- Web: <https://du-bii.github.io/module-2-Python/>
+- Web: <https://du-bii.github.io/module-2-Python>
 
 ## License
 
