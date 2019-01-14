@@ -19,7 +19,21 @@ Pour info, nous comptons aller du chapitre 1 à 13 au cours de la formation.
 
 ## Synopsis
 
-Dans ce cours, nous allons voir les bases du langage Python. Au-delà de l'aspect programmation en langage Python, nous allons voir progressivement quelques bases d'algorithmie, c'est-à-dire comment transformer un problème, énoncé en français, en une suite d'instructions informatiques.
+Dans ce cours, nous allons voir les bases du langage Python. Au-delà de l'apprentissage de la syntaxe du langage Python, nous allons voir progressivement quelques bases d'algorithmie, c'est-à-dire comment transformer un problème énoncé en français, en une suite d'instructions informatiques.
+
+L'apprentissage de la programmation est un processus nécessitant un certain investissement. Ainsi, nous vous conseillons de faire un maximum d'exercices sur une base régulière afin d'acquérir certains automatismes. A la fin du cours, vous devriez être capable d'écrire des scripts de base permettant :
+
+- de lire des fichiers contenant des données biologiques et rechercher des contenus spécifiques dans ces fichiers ;
+- changer le format d'un fichier en un autre ;
+- faire des calculs de base sur les données extraites des fichiers ;
+- réaliser une suite de tâches plus ou moins complexes ;
+- avoir les bases pour continuer à vous former par vous même après la fin du DU.
+
+## Organisation des cours
+
+Les enseignements seront donnés sous forme de cours / TP, quelques minutes de théorie seront suivies d'une mise en pratique immédiate. 
+
+A titre indicatif, nous détaillons dans la suite le découpage des différentes séances. Ce découpage est succeptible de changer en fonction du degré d'avancement de l'ensemble des stagiaires.
 
 ### Séance 1
 
