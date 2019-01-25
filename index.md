@@ -38,7 +38,7 @@ A titre indicatif, nous détaillons dans la suite le découpage des différentes
 
 ### Séance 1
 
-Lundi 28 janvier : 13h30 - 16h30
+Lundi 28 janvier : 14h30 - 17h30
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
 
@@ -51,7 +51,7 @@ Instructeurs : Patrick Fuchs et Sandra Dérozier
 
 ### Séance 2
 
-Mercredi 30 janvier : 13h30 - 16h30
+Mercredi 30 janvier : 14h30 - 17h30
 
 Instructeurs : Patrick Fuchs et Hubert Santuz
 
@@ -61,7 +61,7 @@ Instructeurs : Patrick Fuchs et Hubert Santuz
 
 ### Séance 3
 
-Lundi 4 février : 13h30 - 16h30
+Lundi 4 février : 14h30 - 17h30
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
 
@@ -70,7 +70,7 @@ Instructeurs : Patrick Fuchs et Sandra Dérozier
 
 ### Séance 4
 
-Mercredi 6 février : 13h30 - 16h30
+Mercredi 6 février : 14h30 - 17h30
 
 Instructeurs : Patrick Fuchs et Hubert Santuz
 
@@ -79,7 +79,7 @@ Instructeurs : Patrick Fuchs et Hubert Santuz
 
 ### Séance 5
 
-Lundi 18 février : 10h30 - 13h
+Lundi 18 février : 10h - 13h
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
 
