@@ -40,14 +40,15 @@ A titre indicatif, nous détaillons dans la suite le découpage des différentes
 
 Lundi 28 janvier : 14h30 - 17h30
 
-Instructeurs : Patrick Fuchs et Sandra Dérozier
+Instructeurs : Patrick Fuchs et Sandra Dérozier; helper : Benoist Laurent
 
 - Introduction à la programmation, notion d'algorithme
 - Généralités sur Python (chapitre 1)
 - Variables (chapitre 2)
 - Affichage (chapitre 3)
 - Listes (chapitre 4)
-- En fonction de l'avancement : début des boucles (chapitre 5)
+
+Voici le [pdf](intro_prog_lecture_dubii.pdf) du cours d'introduction à la programmation vu aujourd'hui.
 
 ### Séance 2
 
@@ -57,7 +58,7 @@ Instructeurs : Patrick Fuchs et Hubert Santuz
 
 - Boucles (suite et fin du chapitre 5)
 - Tests (chapitre 6)
-- Fichiers (chapitre 7)
+- Si le temps le permet : Fichiers (chapitre 7)
 
 ### Séance 3
 
@@ -65,6 +66,7 @@ Lundi 4 février : 14h30 - 17h30
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
 
+- Fichiers (chapitre 7)
 - Modules (chapitre 8)
 - Aller plus loin avec les chaines de caractères (chapitre 10)
 
