@@ -50,6 +50,10 @@ Instructeurs : Patrick Fuchs et Sandra Dérozier; helper : Benoist Laurent
 
 Voici le [pdf](intro_prog_lecture_dubii.pdf) du cours d'introduction à la programmation vu aujourd'hui.
 
+Suite à notre discussion, pour installer python à la maison, vous pouvez suivre les instructions [ici](https://python.sdv.univ-paris-diderot.fr/#installation-de-python). Pour rappel, cela vous permettra de faire toutes les tâches dans le module de Python.
+
+Concernant Unix, vous pouvez suivre la rubrique *Installer un shell Linux sur sa machine* de la [page gihub du module Unix](https://du-bii.github.io/module-1-Environnement-Unix/).
+
 ### Séance 2
 
 Mercredi 30 janvier : 14h30 - 17h30
