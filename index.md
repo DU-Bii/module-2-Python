@@ -54,6 +54,8 @@ Suite à notre discussion, pour installer python à la maison, vous pouvez suivr
 
 Concernant Unix, vous pouvez suivre la rubrique *Installer un shell Linux sur sa machine* de la [page github du module Unix](https://du-bii.github.io/module-1-Environnement-Unix/).
 
+Un site important vous permettant de pythonner en ligne : [pythontutor](http://pythontutor.com/). Ce site permet d'exécuter un code ligne par ligne, et de voir l'état des variables au fur et à mesure de l'exécution du code. Très utile lorsqu'on débute en programmation.
+
 ### Séance 2
 
 Mercredi 30 janvier : 14h30 - 17h30
