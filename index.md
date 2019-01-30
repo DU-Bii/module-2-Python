@@ -62,19 +62,21 @@ Mercredi 30 janvier : 14h30 - 17h30
 
 Instructeurs : Patrick Fuchs et Hubert Santuz
 
-- Boucles (suite et fin du chapitre 5)
-- Tests (chapitre 6)
-- Si le temps le permet : Fichiers (chapitre 7)
+- Boucles (chapitre 5)
+- Tests (première moitié du chapitre 6) (seconde moitié à lire à la maison)
+
+Les corrections des exercices des chapitres 3 et 4 ont été mises sur moodle, cliquez [ici](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492). Attention, il faut être connecté sur moodle pour que le lien fonctionne. Merci de ne pas diffuser ces corrections.
 
 ### Séance 3
 
 Lundi 4 février : 14h30 - 17h30
 
-Instructeurs : Patrick Fuchs et Sandra Dérozier
+Instructeurs : Patrick Fuchs et Sandra Dérozier et Benoist Laurent
 
+- corrections des exercices
+- rappel sur la fin du chapitre 6 sur les tests (lecture à la maison)
 - Fichiers (chapitre 7)
-- Modules (chapitre 8)
-- Aller plus loin avec les chaines de caractères (chapitre 10)
+- début sur les Modules (chapitre 8)
 
 ### Séance 4
 
@@ -82,8 +84,9 @@ Mercredi 6 février : 14h30 - 17h30
 
 Instructeurs : Patrick Fuchs et Hubert Santuz
 
-- Fonctions (chapitre 9)
-- Aller plus loin avec les listes (chapitre 11)
+- fin des Modules (chapitre 8)
+- Dictionnaires et tuples (chapitre 13)
+- début sur Aller plus loin avec les chaînes de caractères (chapitre 10)
 
 ### Séance 5
 
@@ -91,8 +94,8 @@ Lundi 18 février : 10h - 13h
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
 
-- Aller plus loin avec les fonctions (chapitre 12)
-- Dictionnaires/tuples (chapitre 13)
+- Fin Aller plus loin avec les chaînes de caractères (chapitre 10)
+- Début Aller plus loin sur les listes (chapitre 10)
 
 ### Séance 6
 
@@ -100,7 +103,7 @@ Mecredi 20 février : 10h - 13h
 
 Instructeurs : Patrick Fuchs et Hubert Santuz
 
-- Création de modules (chapitre 14)
+- Fin Aller plus loin sur les listes (chapitre 10)
 - Récapitulation des concepts
 
 ## Accès
