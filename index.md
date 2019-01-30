@@ -46,7 +46,7 @@ Instructeurs : Patrick Fuchs et Sandra Dérozier; helper : Benoist Laurent
 - Généralités sur Python (chapitre 1)
 - Variables (chapitre 2)
 - Affichage (chapitre 3)
-- Listes (chapitre 4)
+- début Listes (chapitre 4)
 
 Voici le [pdf](intro_prog_lecture_dubii.pdf) du cours d'introduction à la programmation vu aujourd'hui.
 
@@ -62,6 +62,8 @@ Mercredi 30 janvier : 14h30 - 17h30
 
 Instructeurs : Patrick Fuchs et Hubert Santuz
 
+- rappel sur la fin du chapitre sur les Listes (chapitre 4)
+- corrections des exercices
 - Boucles (chapitre 5)
 - Tests (première moitié du chapitre 6) (seconde moitié à lire à la maison)
 
