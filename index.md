@@ -67,7 +67,12 @@ Instructeurs : Patrick Fuchs et Hubert Santuz
 - Boucles (chapitre 5)
 - Tests (première moitié du chapitre 6) (seconde moitié à lire à la maison)
 
-Les corrections des exercices des chapitres 3 et 4 ont été mises sur moodle, cliquez [ici](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492). Attention, il faut être connecté sur moodle pour que le lien fonctionne. Merci de ne pas diffuser ces corrections.
+Nous avons mis sur moodle 2 ressources :
+
+- Les corrections des exercices des chapitres 3 et 4, cliquez [ici](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492). 
+- Un exemple de QCM traitant des chapitres 1 à 7, cliquez [ici](https://moodlesupd.script.univ-paris-diderot.fr/mod/resource/view.php?id=171495).
+
+Attention, il faut être connecté sur moodle pour que ces 2 liens fonctionnent. Merci de ne pas diffuser ces 2 ressources.
 
 ### Séance 3
 
