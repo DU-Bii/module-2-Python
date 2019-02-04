@@ -80,10 +80,16 @@ Lundi 4 février : 14h30 - 17h30
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier et Benoist Laurent
 
-- corrections des exercices
+- corrections des exercices (moyenne: 5.4.5, pyramide: 5.4.10, minimum: 6.6.3)
+- exercice matrice et pyramide (méthode 2)
 - rappel sur la fin du chapitre 6 sur les tests (lecture à la maison)
 - Fichiers (chapitre 7)
-- début sur les Modules (chapitre 8)
+
+Devoirs pour le mercredi 6 :
+
+- [QCM1](https://moodlesupd.script.univ-paris-diderot.fr/mod/quiz/view.php?id=172294) à faire sur moodle
+- exo 5.4.11 (parcours matrice)
+- exo 6.6.9 (nombres premiers, méthode 1 --> commencer à y réfléchir)
 
 ### Séance 4
 
@@ -91,9 +97,8 @@ Mercredi 6 février : 14h30 - 17h30
 
 Instructeurs : Patrick Fuchs et Hubert Santuz
 
-- fin des Modules (chapitre 8)
+- Modules (chapitre 8)
 - Dictionnaires et tuples (chapitre 13)
-- début sur Aller plus loin avec les chaînes de caractères (chapitre 10)
 
 ### Séance 5
 
@@ -101,8 +106,8 @@ Lundi 18 février : 10h - 13h
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
 
-- Fin Aller plus loin avec les chaînes de caractères (chapitre 10)
-- Début Aller plus loin sur les listes (chapitre 10)
+- Aller plus loin avec les chaînes de caractères (chapitre 10)
+- Début Aller plus loin sur les listes (chapitre 11)
 
 ### Séance 6
 
