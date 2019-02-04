@@ -81,9 +81,11 @@ Lundi 4 février : 14h30 - 17h30
 Instructeurs : Patrick Fuchs et Sandra Dérozier et Benoist Laurent
 
 - corrections des exercices (moyenne: 5.4.5, pyramide: 5.4.10, minimum: 6.6.3)
-- exercice matrice et pyramide (méthode 2)
+- exercice parcours matrice (5.4.11) et pyramide (méthode 2)
 - rappel sur la fin du chapitre 6 sur les tests (lecture à la maison)
 - Fichiers (chapitre 7)
+
+Nous avons ajouté des corrections d'exercice sur moodle pour les chapitres 5 et 6: cliquez [ici](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
 
 Devoirs pour le mercredi 6 :
 
