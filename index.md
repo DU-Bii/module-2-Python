@@ -99,8 +99,30 @@ Mercredi 6 février : 14h30 - 17h30
 
 Instructeurs : Patrick Fuchs et Hubert Santuz
 
-- Modules (chapitre 8)
-- Dictionnaires et tuples (chapitre 13)
+- retour sur le QCM1
+- corrections des exercices (parcours matrice: 5.4.11, nombres premiers: 6.6.9)
+- fin du chapitre 7 sur les fichiers
+- chapitre 13 sur les dictionnaires
+
+A lire pour le lundi 18 :
+
+- fin du chapitre 13 sur les tuples
+- chapitre 8 sur les modules (vous pouvez sauter les rubriques 8.5 et 8.6)
+
+Devoirs pour le lundi 18 :
+
+- 5.4.12 : parcours de la demi-matrice
+- 6.6.9 : Nombres premiers, méthode 2
+- Finir le 7.7.1 sur les fichiers
+- 13.3.1 : composition en acide-aminés
+- 13.3.2 : fréquence en mots de 2 lettres
+- 13.3.4 : mots de 2 lettres chez S. Cerevisiae
+
+Après avoir lu le chapitre 8 sur les modules 
+- 7.7.2 : spirale (utilisation du module math)
+- 8.7.6 : séquence aléatoire (utilisation du module random)
+
+Le [QCM1](https://moodlesupd.script.univ-paris-diderot.fr/mod/quiz/view.php?id=172294) a été réactivé. Les corrections des exercices des chapitres 5 et 6 ont été ajoutées : cliquez [ici](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492)
 
 ### Séance 5
 
