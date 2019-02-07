@@ -130,8 +130,9 @@ Lundi 18 février : 10h - 13h
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
 
+- Corrections d'exercices
+- Retour sur les tuples (chapitre 13) et les modules (chapitre 8)
 - Aller plus loin avec les chaînes de caractères (chapitre 10)
-- Début Aller plus loin sur les listes (chapitre 11)
 
 ### Séance 6
 
@@ -139,7 +140,7 @@ Mecredi 20 février : 10h - 13h
 
 Instructeurs : Patrick Fuchs et Hubert Santuz
 
-- Fin Aller plus loin sur les listes (chapitre 10)
+- Aller plus loin sur les listes (chapitre 10)
 - Récapitulation des concepts
 
 ## Accès
