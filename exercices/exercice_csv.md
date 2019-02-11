@@ -10,6 +10,8 @@ Chr;3;NC_035079.1;84.94;43.5;3,193;-;15;323;2,179;95
 ...
 ```
 
+Le fichier se trouve [ici](https://filesender.renater.fr/?s=download&token=c11e2fed-c0fd-9c88-17d7-c7872eacc0e3).
+
 Vous y trouverez une ligne par chromosome avec les informations suivantes :
 * numéro du chromosome,
 * référence RefSeq,
