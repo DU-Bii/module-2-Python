@@ -1,6 +1,6 @@
 ## Enoncé de l'exercice GFF3
 
-Le fichier **Bacillus_subtilis.gff3** contient une partie de l'annotation de *Bacillus subtilis* au format GFF3 téléchargé sur RefSeq NCBI. 
+Le fichier **Bacillus_subtilis.gff3** contient une partie de l'annotation de *Bacillus subtilis* au format GFF3 téléchargé sur RefSeq NCBI (seulement les 200e lignes du fichier initial). 
 
 ```
 ##gff-version 3
@@ -14,6 +14,8 @@ NC_000964.3	RefSeq	region	1	4215606	.	+	.	ID=id0;Dbxref=taxon:224308;Is_circular
 NC_000964.3	RefSeq	gene	410	1750	.	+	.	ID=gene0;Name=dnaA;gbkey=Gene;gene=dnaA;gene_biotype=protein_coding;locus_tag=BSU_00010;old_locus_tag=BSU00010
 ...
 ```
+
+Le fichier se trouve [ici](https://filesender.renater.fr/?s=download&token=87d513b4-d137-a923-fea4-21cf66ab28ba).
 
 **Seuls les gènes** (3e colonne = gene) nous intéressent dans cet exercice.
 
