@@ -20,6 +20,6 @@ Vous y trouverez une ligne par chromosome avec les informations suivantes :
 * nombre de protéines, de gènes, de pseudogènes et d’ARNs.
 
 L’information qui nous intéresse est la **correspondance** entre le **numéro de chaque chromosome** et la **référence RefSeq** 
-(exemples : Chr01 <—> NC_035077.1 / Chr10 <—> NC_035086.1).
+(exemples : Chr01 <—> NC_035077, Chr02 <-> NC_035078.1, ..., Chr10 <—> NC_035086.1, ...).
 
-Cette correspondance devra être stockée sous forme d’un **dictionnaire**.
+Créez un programme `truite.py` qui va lire le fichier csv, extraire les informations idoines, et stocker la correspondance numéro/nom de chromosome <-> refseq sous forme d’un **dictionnaire**. Par exemple pour le chromosome 1, la clé sera 'Chr01' et la valeur 'NC_035077'. Ce dictionnaire sera affiché à l'écran par votre programme.
