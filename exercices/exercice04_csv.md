@@ -1,4 +1,4 @@
-## Enoncé de l'exercice CSV
+# Exercice 04 truite et csv
 
 Le fichier **Truite_ChrName_RefSeq.csv** contient diverses informations sur l’annotation du génome de la truite Arc-en-ciel.
 
