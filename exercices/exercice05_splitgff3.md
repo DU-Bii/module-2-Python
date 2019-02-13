@@ -1,4 +1,6 @@
-## Enoncé de l'exercice GFF3
+# Exercice 05 Fichier GFF3 et split
+
+On cherche à créer un script `ana_gff3.py` qui analyse un fichier d'annotation au format GFF3. 
 
 Le fichier **Bacillus_subtilis.gff3** contient une partie de l'annotation de *Bacillus subtilis* au format GFF3 téléchargé sur RefSeq NCBI (seulement les 200e lignes du fichier initial). 
 
@@ -20,15 +22,16 @@ Le fichier se trouve [ici](https://filesender.renater.fr/?s=download&token=8f894
 **Seuls les gènes** (3e colonne = gene) nous intéressent dans cet exercice.
 
 L'objectif final est d'extraire uniquement certaines informations de ces gènes :
-
+ 
 * la **position de départ** du gène sur le chromosome (4e colonne),
 * la **position de fin** du gène sur le chromosome (5e colonne),
 * le **nom** du gène (la sous-partie "Name=" de la 9e colonne),
 * le ***locus_tag*** associé au gène (la sous-partie "locus_tag=" de la 9e colonne).
 
-Vous pouvez écrire vos données dans un fichier tabulé sous la forme :
+Vous écrirez vos données dans un fichier en colonne (utilisation de l'écriture formatée, alignement à gauche) sous la forme :
 
 ```
-Name  Locus-tag Start Stop
-dnaA  BSU_00010 410 1750
+Name  Locus-tag Start  Stop
+dnaA  BSU_00010 410    1750
+[...]
 ```
