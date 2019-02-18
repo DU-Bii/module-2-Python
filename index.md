@@ -136,7 +136,7 @@ Instructeurs : Patrick Fuchs et Sandra Dérozier
 
 Liens vers les exercices :
 
-- <exercices/exercice01_getseqfasta.md>
+- [exercice 01 récupération séquence fasta](exercices/exercice01_getseqfasta.md)
 - <exercices/exercice02_getseqgenbank.md>
 - <exercice03_splitcols.md>
 - <exercice04_csv.md>
