@@ -72,10 +72,10 @@ Si vous avez les idées claires sur ce qu'il faut faire, vous pouvez arrêter vo
 **Croisement des données**
 
 * grâce aux positions de début et de fin du *feature* de type CDS, vous pouvez **extraire sa séquence** à partir du dictionnaire préalablement créé,
-* dans le cas où l'élement est positionné sur le **brin -**, il faudra **reverse complémenter** la séquence :
+* dans le cas où l'élement est positionné sur le **brin -**, il faudra **"inverse complémenter"** la séquence :
 
 ```
-séquence initiale :             ATGC
-séquence complémenter :         TACG
-séquence reverse complémenter : GCAT
+séquence initiale :               5'-ATGC-3'
+séquence complémentaire :         3'-TACG-5'
+séquence inverse complémentaire : 5'-GCAT-3'
 ```
