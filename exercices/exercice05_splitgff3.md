@@ -2,7 +2,7 @@
 
 On cherche à créer un script `ana_gff3.py` qui analyse un fichier d'annotation au format GFF3. 
 
-Le fichier **Bacillus_subtilis.gff3** contient une partie de l'annotation de *Bacillus subtilis* au format GFF3 téléchargé sur RefSeq NCBI (seulement les 200e lignes du fichier initial). 
+Le fichier [Bacillus_subtilis.gff3](Bacillus_subtilis.gff3) contient une partie de l'annotation de *Bacillus subtilis* au format GFF3 téléchargé sur RefSeq NCBI (seulement les 200e lignes du fichier initial). 
 
 ```
 ##gff-version 3
@@ -17,7 +17,6 @@ NC_000964.3	RefSeq	gene	410	1750	.	+	.	ID=gene0;Name=dnaA;gbkey=Gene;gene=dnaA;g
 ...
 ```
 
-Le fichier se trouve [ici](https://filesender.renater.fr/?s=download&token=8f894f37-72e6-fb0b-5bf1-6bee2331d639).
 
 **Seuls les gènes** (3e colonne = gene) nous intéressent dans cet exercice.
 
