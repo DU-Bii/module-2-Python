@@ -1,6 +1,6 @@
 # Exercice 04 truite et csv
 
-Le fichier **Truite_ChrName_RefSeq.csv** contient diverses informations sur l’annotation du génome de la truite Arc-en-ciel.
+Le fichier [Truite_ChrName_RefSeq.csv](Truite_ChrName_RefSeq.csv) contient diverses informations sur l’annotation du génome de la truite Arc-en-ciel.
 
 ```
 Type;Name;RefSeq;Size (Mb);GC%;Protein;rRNA;tRNA;Other RNA;Gene;Pseudogene
@@ -9,8 +9,6 @@ Chr;2;NC_035078.1;85.48;43.1;3,229;-;50;304;2,153;75
 Chr;3;NC_035079.1;84.94;43.5;3,193;-;15;323;2,179;95
 ...
 ```
-
-Le fichier se trouve [ici](https://filesender.renater.fr/?s=download&token=71b8a584-4361-1dfb-879c-adee5abc2f63).
 
 Vous y trouverez une ligne par chromosome avec les informations suivantes :
 * numéro du chromosome,
