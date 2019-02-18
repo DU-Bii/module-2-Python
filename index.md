@@ -137,10 +137,10 @@ Instructeurs : Patrick Fuchs et Sandra Dérozier
 Liens vers les exercices :
 
 - [exercice 01 récupération séquence fasta](exercices/exercice01_getseqfasta.md)
-- <exercices/exercice02_getseqgenbank.md>
-- <exercice03_splitcols.md>
-- <exercice04_csv.md>
-- <exercice05_splitgff3>
+- [exercice 02 récupération séquence genbank](exercices/exercice02_getseqgenbank.md)
+- [exercice 03 split colonnes](exercice03_splitcols.md)
+- [exercice 04 split csv](exercice04_csv.md)
+- [exercice 05 split gff3](exercice05_splitgff3)
 
 ### Séance 6
 
