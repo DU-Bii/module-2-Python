@@ -17,7 +17,6 @@ NC_000964.3	RefSeq	gene	410	1750	.	+	.	ID=gene0;Name=dnaA;gbkey=Gene;gene=dnaA;g
 ...
 ```
 
-
 **Seuls les gènes** (3e colonne = gene) nous intéressent dans cet exercice.
 
 L'objectif final est d'extraire uniquement certaines informations de ces gènes :
