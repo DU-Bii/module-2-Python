@@ -138,9 +138,9 @@ Liens vers les exercices :
 
 - [exercice 01 récupération séquence fasta](exercices/exercice01_getseqfasta.md)
 - [exercice 02 récupération séquence genbank](exercices/exercice02_getseqgenbank.md)
-- [exercice 03 split colonnes](exercice03_splitcols.md)
-- [exercice 04 split csv](exercice04_csv.md)
-- [exercice 05 split gff3](exercice05_splitgff3)
+- [exercice 03 split colonnes](exercices/exercice03_splitcols.md)
+- [exercice 04 split csv](exercices/exercice04_csv.md)
+- [exercice 05 split gff3](exercices/exercice05_splitgff3)
 
 ### Séance 6
 
