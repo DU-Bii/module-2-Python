@@ -130,8 +130,8 @@ Lundi 18 février : 10h - 13h
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
 
-- Corrections d'exercices
 - Retour sur les tuples (chapitre 13) et les modules (chapitre 8)
+- Corrections d'exercices (7.7.2 Spirale, 13.3.1 Composition en acides aminés, 13.3.2 Mots de 2 lettres)
 - Aller plus loin avec les chaînes de caractères (chapitre 10)
 
 Liens vers les exercices :
