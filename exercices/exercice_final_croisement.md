@@ -53,3 +53,29 @@ TAG
 
 * le format multiFASTA impose que la séquence soit découpée (60 caractères par ligne).
 * les séquences doivent être en lettres majuscules uniquement.
+
+Si vous avez les idées claires sur ce qu'il faut faire, vous pouvez arrêter votre lecture ici et vous lancer. Si ce n'est pas le cas et que vous ne savez pas par où commencer, voici quelques pistes :
+
+**Traitement du fichier multiFASTA**
+
+* parcours en lecture du fichier **S_cerevisiae_chromosomes.fna**,
+* création d'un dictionnaire (**clé** : nom de la séquence chromosomique , **valeur** : séquence chromosomique).
+
+*Point d'attention : dans un fichier au format FASTA, la séquence peut être sur plusieurs lignes.* 
+
+**Traitement du fichier GFF3**
+
+* parcours en lecture du fichier **S_cerevisiae_annotations.gff**,
+* filtrage sur le type de *feature* (la 3e colonne doit contenir **CDS**),
+* récupération des éléments d'intérêt (**nom de la séquence de référence** dans la 1e colonne, les **positions de début** et **de fin** respectivement dans les 4e colonne et 5e colonne, le **sens** de la séquence dans la 7e colonne ainsi que l'**identifiant** associé à la séquence codante qui correspondant à la sous-partie "ID=" de la 9e colonne).
+
+**Croisement des données**
+
+* grâce aux positions de début et de fin du *feature* de type CDS, vous pouvez **extraire sa séquence** à partir du dictionnaire préalablement créé,
+* dans le cas où l'élement est positionné sur le **brin -**, il faudra **reverse complémenter** la séquence :
+
+```
+séquence initiale :             ATGC
+séquence complémenter :         TACG
+séquence reverse complémenter : GCAT
+```
