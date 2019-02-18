@@ -1,6 +1,6 @@
 # Exercice 01 getseqfasta
 
-Soit le fichier `UBI4_SCerevisiae.fasta` contenant une séquence au format fasta. Ecrire un programme `getseqfasta.py`, qui lit la séquence contenue dans le fichier fasta, qui la stocke dans une chaîne de caractères nommée `sequence`. Votre programme affichera :
+Soit le fichier [UBI4_SCerevisiae.fasta](UBI4_SCerevisiae.fasta) contenant une séquence au format fasta. Ecrire un programme `getseqfasta.py`, qui lit la séquence contenue dans le fichier fasta, qui la stocke dans une chaîne de caractères nommée `sequence`. Votre programme affichera :
 
 - le nom du fichier
 - la longueur de la séquence
