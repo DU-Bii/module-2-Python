@@ -134,6 +134,14 @@ Instructeurs : Patrick Fuchs et Sandra Dérozier
 - Retour sur les tuples (chapitre 13) et les modules (chapitre 8)
 - Aller plus loin avec les chaînes de caractères (chapitre 10)
 
+Liens vers les exercices :
+
+- <exercices/exercice01_getseqfasta.md>
+- <exercices/exercice02_getseqgenbank.md>
+- <exercice03_splitcols.md>
+- <exercice04_csv.md>
+- <exercice05_splitgff3>
+
 ### Séance 6
 
 Mecredi 20 février : 10h - 13h
