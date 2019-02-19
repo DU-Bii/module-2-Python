@@ -20,12 +20,19 @@ with open("B_subtilis_GeneOnly.txt", "w") as filout:
                     attributs = champs[8].split(";")
                     # Parcours des différents attributs de la dernière colonne
                     for attribut in attributs:
+                        # Solution 1 (avec un split)
+                        couple = attribut.split("=")
+                        if couple[0] == "gene":
+                            gene = couple[1]
+                        elif couple[0] == "locus_tag":
+                            locustag = couple[1]
+                        # Solution 2 (sans split)
                         # Si l'attribut contient gene
-                        if "gene=" in attribut:
-                            gene = attribut.replace("gene=","")
+                        #if "gene=" in attribut:
+                        #    gene = attribut.replace("gene=","")
                         # Si l'attribut commence par locustag
-                        elif attribut.startswith("locus_tag") == True:
-                            locustag = attribut.replace("locus_tag=","")
+                        #elif attribut.startswith("locus_tag") == True:
+                        #    locustag = attribut.replace("locus_tag=","")
                             
                     # Ecriture dans le fichier de sortie
                     filout.write("{:<12}{:<15}{:<10}{:<10}\n".format(gene,locustag,start,stop))
