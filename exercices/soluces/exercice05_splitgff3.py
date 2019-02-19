@@ -28,4 +28,4 @@ with open("B_subtilis_GeneOnly.txt", "w") as filout:
                             locustag = attribut.replace("locus_tag=","")
                             
                     # Ecriture dans le fichier de sortie
-                    filout.write("{:<12}{:<15}{:<10}{:<10}\n".format(gene,locustag,start, stop))
+                    filout.write("{:<12}{:<15}{:<10}{:<10}\n".format(gene,locustag,start,stop))
