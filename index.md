@@ -161,7 +161,6 @@ Liens vers les corrections des exercices :
 - [exercice 04 split csv](exercices/soluces/exercice04_truite.py)
 - [exercice 05 split gff3](exercices/soluces/exercice05_splitgff3.py)
 
-Voici une correction des exercices ci-dessus: cliquez [ici](https://github.com/DU-Bii/module-2-Python/tree/master/exercices/soluces)
 
 ## Accès
 
