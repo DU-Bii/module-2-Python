@@ -3,12 +3,12 @@ seq = ""
 is_seq = False
 with open(filename, "r") as filin:
     for line in filin:
-        if line.startswith("ORIGIN"):
-            is_seq = True
         if line.startswith("//"):
             is_seq = False
         if is_seq:
             seq += line[10:-1].replace(" ", "")
+        if line.startswith("ORIGIN"):
+            is_seq = True
 
 
 print(filename)

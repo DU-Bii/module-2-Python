@@ -18,12 +18,12 @@ On se propose de réaliser un programme `getseqgenbank.py` qui récupère la sé
 drapeau <- Faux
 seq <- chaîne de caractères vide
 Lire toutes les lignes du fichier:
-    si la ligne contient ORIGIN:
-	    drapeau <- Vrai
 	si la ligne contient //:
 	    drapeau <- Faux
 	si drapeau est Vrai:
 	    on ajoute à seq la ligne (en retirant les espaces, chiffres et retour à la ligne)
+	si la ligne contient ORIGIN
+	    drapeau <- Vrai
 ```
 
 Le code affichera :
