@@ -142,16 +142,26 @@ Liens vers les exercices :
 - [exercice 04 split csv](exercices/exercice04_csv.md)
 - [exercice 05 split gff3](exercices/exercice05_splitgff3)
 
-Voici une correction des exercices ci-dessus: cliquez [ici](https://github.com/DU-Bii/module-2-Python/tree/master/exercices/soluces)
-
 ### Séance 6
 
 Mecredi 20 février : 10h - 13h
 
 Instructeurs : Patrick Fuchs et Hubert Santuz
 
+- Corrections des exercices 01 et 02
 - Aller plus loin sur les listes (chapitre 10)
-- Récapitulation des concepts
+- Une note sur le `sys.argv` (cf. chapitre 8 sur les modules)
+- Récapitulation des concepts / Pour aller plus loin.
+- [Enoncé du projet](exercices/exercice_final_croisement.md)
+
+Liens vers les corrections des exercices :
+- [correction exercice 01 récupération séquence fasta](exercices/soluces/exercice01_getseqfasta.py)
+- [exercice 02 récupération séquence genbank](exercices/soluces/exercice02_getseqgenbank.py)
+- [exercice 03 split colonnes](exercices/soluces/exercice03_spirale.py)
+- [exercice 04 split csv](exercices/soluces/exercice04_truite.py)
+- [exercice 05 split gff3](exercices/soluces/exercice05_splitgff3.py)
+
+Voici une correction des exercices ci-dessus: cliquez [ici](https://github.com/DU-Bii/module-2-Python/tree/master/exercices/soluces)
 
 ## Accès
 
