@@ -142,6 +142,8 @@ Liens vers les exercices :
 - [exercice 04 split csv](exercices/exercice04_csv.md)
 - [exercice 05 split gff3](exercices/exercice05_splitgff3)
 
+Voici une correction des exercices ci-dessus: cliquez [ici](https://github.com/DU-Bii/module-2-Python/tree/master/exercices/soluces)
+
 ### Séance 6
 
 Mecredi 20 février : 10h - 13h
