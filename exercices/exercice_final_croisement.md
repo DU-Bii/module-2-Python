@@ -1,6 +1,6 @@
 ## Enoncé de l'exercice sur le croisement de données
 
-Le fichier [**S_cerevisiae_chromosomes.fna**](http://www.dsimb.inserm.fr/~fuchs/DUBii/S_cerevisiae_chromosomes.fna) contient les 16 **séquences chromosomiques** de la levure *Saccharomyces cerevisiae*.
+Le fichier [S_cerevisiae_chromosomes.fna](http://www.dsimb.inserm.fr/~fuchs/DUBii/S_cerevisiae_chromosomes.fna) contient les 16 **séquences chromosomiques** de la levure *Saccharomyces cerevisiae*.
 
 ```
 >BK006935.2 TPA_inf: Saccharomyces cerevisiae S288c chromosome I, complete sequence
@@ -10,7 +10,7 @@ TCAACCATACCACTCCGAACCACCATCCATCCCTCTACTTACTACCACTCACCCACCGTTACCCTCCAATTACCCATATC
 ...
 ```
 
-Le fichier [**S_cerevisiae_annotations.gff**](http://www.dsimb.inserm.fr/~fuchs/DUBii/S_cerevisiae_annotations.gff) contient l’**annotation** du génome de la levure *Saccharomyces cerevisiae*.
+Le fichier [S_cerevisiae_annotations.gff](http://www.dsimb.inserm.fr/~fuchs/DUBii/S_cerevisiae_annotations.gff) contient l’**annotation** du génome de la levure *Saccharomyces cerevisiae*.
 
 ```
 ##gff-version 3
