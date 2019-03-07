@@ -1,6 +1,6 @@
 ## Enoncé de l'exercice sur le croisement de données
 
-Le fichier **S_cerevisiae_chromosomes.fna** contient les 16 **séquences chromosomiques** de la levure *Saccharomyces cerevisiae*.
+Le fichier [**S_cerevisiae_chromosomes.fna**](http://www.dsimb.inserm.fr/~fuchs/DUBii/S_cerevisiae_chromosomes.fna) contient les 16 **séquences chromosomiques** de la levure *Saccharomyces cerevisiae*.
 
 ```
 >BK006935.2 TPA_inf: Saccharomyces cerevisiae S288c chromosome I, complete sequence
@@ -10,7 +10,7 @@ TCAACCATACCACTCCGAACCACCATCCATCCCTCTACTTACTACCACTCACCCACCGTTACCCTCCAATTACCCATATC
 ...
 ```
 
-Le fichier **S_cerevisiae_annotations.gff** contient l’**annotation** du génome de la levure *Saccharomyces cerevisiae*.
+Le fichier [**S_cerevisiae_annotations.gff**](http://www.dsimb.inserm.fr/~fuchs/DUBii/S_cerevisiae_annotations.gff) contient l’**annotation** du génome de la levure *Saccharomyces cerevisiae*.
 
 ```
 ##gff-version 3
@@ -28,8 +28,6 @@ BK006935.2	tpg	exon	1807	2169	.	-	.	ID=id3;Parent=rna0;gbkey=mRNA;gene=PAU8;prod
 BK006935.2	tpg	CDS	1807	2169	.	-	0	ID=cds0;Parent=rna0;Dbxref=SGD:S000002142,NCBI_GP:DAA06918.1;Name=DAA06918.1;Note=hypothetical protein%3B member of the seripauperin multigene family encoded mainly in subtelomeric regions;gbkey=CDS;gene=PAU8;product=seripauperin PAU8;protein_id=DAA06918.1
 ...
 ```
-
-Les fichiers se trouvent [ici](https://filesender.renater.fr/?s=download&token=ddb647e6-294c-3ce8-5467-bb6c1f927e3a).
 
 L'objectif de cet exercice est de créer un **fichier multi-FASTA** contenant les **séquences** des **CDS** annotées (3e colonne contient "CDS").
 
