@@ -160,6 +160,7 @@ Liens vers les corrections des exercices :
 - [exercice 03 split colonnes](exercices/soluces/exercice03_spirale.py)
 - [exercice 04 split csv](exercices/soluces/exercice04_truite.py)
 - [exercice 05 split gff3](exercices/soluces/exercice05_splitgff3.py)
+- [projet final](projet_final/exerciceProjet.py)
 
 
 ## Accès
