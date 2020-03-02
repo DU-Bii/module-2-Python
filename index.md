@@ -5,8 +5,8 @@ Bienvenue au cours de Python du DU Bii. Vous trouverez sur ce dépôt toutes les
 
 1. Patrick Fuchs, Univ. Paris Diderot, `<patrick.fuchs@univ-paris-diderot.fr>` (co-responsable)
 2. Sandra Dérozier, INRA, `<sandra.derozier@inra.fr>` (co-responsable)
-3. Hubert Santuz, CNRS, `<hubert.santuz@gmail.com>`
-4. Benoist Laurent, CNRS, `<benoist.laurent@gmail.com>`
+3. Pierre Poulain, Univ. Paris Diderot, `<pierre.poulain@univ-paris-diderot.fr>`
+4. Hubert Santuz, CNRS, `<hubert.santuz@gmail.com>`
 
 ## Prérequis
 
@@ -38,143 +38,55 @@ A titre indicatif, nous détaillons dans la suite le découpage des différentes
 
 ### Séance 1
 
-Lundi 28 janvier : 14h30 - 17h30
+Mardi 3 mars : 9h30 - 12h30
 
-Instructeurs : Patrick Fuchs et Sandra Dérozier; helper : Benoist Laurent
+Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Hubert Santuz
 
-- Introduction à la programmation, notion d'algorithme
-- Généralités sur Python (chapitre 1)
-- Variables (chapitre 2)
-- Affichage (chapitre 3)
-- début Listes (chapitre 4)
-
-Voici le [pdf](intro_prog_lecture_dubii.pdf) du cours d'introduction à la programmation vu aujourd'hui.
-
-Suite à notre discussion, pour installer python à la maison, vous pouvez suivre les instructions [ici](https://python.sdv.univ-paris-diderot.fr/#installation-de-python). Pour rappel, cela vous permettra de faire toutes les tâches dans le module de Python.
-
-Concernant Unix, vous pouvez suivre la rubrique *Installer un shell Linux sur sa machine* de la [page github du module Unix](https://du-bii.github.io/module-1-Environnement-Unix/).
-
-Un site important vous permettant de pythonner en ligne : [pythontutor](http://pythontutor.com/). Ce site permet d'exécuter un code ligne par ligne, et de voir l'état des variables au fur et à mesure de l'exécution du code. Très utile lorsqu'on débute en programmation.
+Révisions des bases travaillées en autonomie (variables, listes, boucles, comparaisons, tests).
 
 ### Séance 2
 
-Mercredi 30 janvier : 14h30 - 17h30
+Mercredi 4 mars : 14h30 - 17h30
 
-Instructeurs : Patrick Fuchs et Hubert Santuz
+Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Hubert Santuz
 
-- rappel sur la fin du chapitre sur les Listes (chapitre 4)
-- corrections des exercices
-- Boucles (chapitre 5)
-- Tests (première moitié du chapitre 6) (seconde moitié à lire à la maison)
-
-Nous avons mis sur moodle 2 ressources :
-
-- Les corrections des exercices des chapitres 3 et 4, cliquez [ici](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492). 
-- Un exemple de QCM traitant des chapitres 1 à 7, cliquez [ici](https://moodlesupd.script.univ-paris-diderot.fr/mod/resource/view.php?id=171495).
-
-Attention, il faut être connecté sur moodle pour que ces 2 liens fonctionnent. Merci de ne pas diffuser ces 2 ressources.
+Consolidation des bases, fichiers, modules.
 
 ### Séance 3
 
-Lundi 4 février : 14h30 - 17h30
+Jeudi 12 mars : 13h30 - 16h30
 
-Instructeurs : Patrick Fuchs et Sandra Dérozier et Benoist Laurent
+Instructeurs : Pierre Poulain & Patrick Fuchs
 
-- corrections des exercices (moyenne: 5.4.5, pyramide: 5.4.10, minimum: 6.6.3)
-- exercice parcours matrice (5.4.11) et pyramide (méthode 2)
-- rappel sur la fin du chapitre 6 sur les tests (lecture à la maison)
-- Fichiers (chapitre 7)
-
-Nous avons ajouté des corrections d'exercice sur moodle pour les chapitres 5 et 6: cliquez [ici](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
-
-Devoirs pour le mercredi 6 :
-
-- [QCM1](https://moodlesupd.script.univ-paris-diderot.fr/mod/quiz/view.php?id=172294) à faire sur moodle
-- exo 5.4.11 (parcours matrice)
-- exo 6.6.9 (nombres premiers, méthode 1 --> commencer à y réfléchir)
+Jupyter & Matplotlib.
 
 ### Séance 4
 
-Mercredi 6 février : 14h30 - 17h30
-
-Instructeurs : Patrick Fuchs et Hubert Santuz
-
-- retour sur le QCM1
-- corrections des exercices (parcours matrice: 5.4.11, nombres premiers: 6.6.9)
-- fin du chapitre 7 sur les fichiers
-- chapitre 13 sur les dictionnaires
-
-A lire pour le lundi 18 :
-
-- fin du chapitre 13 sur les tuples
-- chapitre 8 sur les modules (vous pouvez sauter les rubriques 8.5 et 8.6)
-
-Devoirs pour le lundi 18 :
-
-- 5.4.12 : parcours de la demi-matrice
-- 6.6.9 : Nombres premiers, méthode 2
-- Finir le 7.7.1 sur les fichiers
-- 13.3.1 : composition en acide-aminés
-- 13.3.2 : fréquence en mots de 2 lettres
-- 13.3.4 : mots de 2 lettres chez S. Cerevisiae
-
-Après avoir lu le chapitre 8 sur les modules 
-- 7.7.2 : spirale (utilisation du module math)
-- 8.7.6 : séquence aléatoire (utilisation du module random)
-
-Le [QCM1](https://moodlesupd.script.univ-paris-diderot.fr/mod/quiz/view.php?id=172294) a été réactivé. Les corrections des exercices des chapitres 5 et 6 ont été ajoutées : cliquez [ici](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492)
-
-### Séance 5
-
-Lundi 18 février : 10h - 13h
+Mardi 24 mars : 9h30 - 12h30
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
 
-- Retour sur les tuples (chapitre 13) et les modules (chapitre 8)
-- Corrections d'exercices (7.7.2 Spirale, 13.3.1 Composition en acides aminés, 13.3.2 Mots de 2 lettres)
-- Aller plus loin avec les chaînes de caractères (chapitre 10)
+Numpy (calculs numériques).
 
-Liens vers les exercices :
+### Séance 5
 
-- [exercice 01 récupération séquence fasta](exercices/exercice01_getseqfasta.md)
-- [exercice 02 récupération séquence genbank](exercices/exercice02_getseqgenbank.md)
-- [exercice 03 split colonnes](exercices/exercice03_splitcols.md)
-- [exercice 04 split csv](exercices/exercice04_csv.md)
-- [exercice 05 split gff3](exercices/exercice05_splitgff3)
+Mardi 24 mars : 14h30 - 17h30
+
+Dictionnaires/tuples, pandas (manipulation & analyse de données).
 
 ### Séance 6
 
-Mecredi 20 février : 10h - 13h
+Jeudi 26 mars : 9h - 12h
 
-Instructeurs : Patrick Fuchs et Hubert Santuz
-
-- Corrections des exercices 01 et 02
-- Aller plus loin sur les listes (chapitre 10)
-- Une note sur le `sys.argv` (cf. chapitre 8 sur les modules)
-- Récapitulation des concepts / Pour aller plus loin.
-- [Enoncé du projet](exercices/exercice_final_croisement.md)
-
-Liens vers les corrections des exercices :
-- [correction exercice 01 récupération séquence fasta](exercices/soluces/exercice01_getseqfasta.py)
-- [exercice 02 récupération séquence genbank](exercices/soluces/exercice02_getseqgenbank.py)
-- [exercice 03 split colonnes](exercices/soluces/exercice03_spirale.py)
-- [exercice 04 split csv](exercices/soluces/exercice04_truite.py)
-- [exercice 05 split gff3](exercices/soluces/exercice05_splitgff3.py)
-
-### Projet final
-
-- [Enoncé du projet](exercices/exercice_final_croisement.md)
-- [Corrigé du projet final](projet_final/exerciceProjet.py)
+Cas d’applications.
 
 ## Accès
 
 - Github: <https://github.com/DU-Bii/module-2-Python>
-- Web: <https://du-bii.github.io/module-2-Python>
 
 ## License
 
 ![](img/CC-BY-SA.png)
-
 
 This content is released under the [Creative Commons Attribution-ShareAlike 4.0 ](https://creativecommons.org/licenses/by-sa/4.0/deed.en) (CC BY-SA 4.0) license. See the bundled [LICENSE](LICENSE.txt) file for details.
 
