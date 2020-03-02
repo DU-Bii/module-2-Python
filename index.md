@@ -46,19 +46,25 @@ Lors du premier cours, nous vous fournirons un polycopié complet du cours. Inut
 
 Dans ce cours, nous allons voir les bases du langage Python. Au-delà de l'apprentissage de la syntaxe du langage Python, nous allons voir progressivement quelques bases d'algorithmie, c'est-à-dire comment transformer un problème énoncé en français, en une suite d'instructions informatiques.
 
-L'apprentissage de la programmation est un processus nécessitant un certain investissement. Ainsi, nous vous conseillons de faire un maximum d'exercices sur une base régulière afin d'acquérir certains automatismes. A la fin du cours, vous devriez être capable d'écrire des scripts de base permettant :
+L'apprentissage de la programmation est un processus nécessitant un certain investissement. Ainsi, nous vous conseillons de faire un maximum d'exercices sur une base régulière afin d'acquérir certains automatismes. 
 
-- de lire des fichiers contenant des données biologiques et rechercher des contenus spécifiques dans ces fichiers ;
+A la fin du cours, vous devriez être capable d'écrire des scripts de base permettant de :
+
+- lire des fichiers contenant des données biologiques et rechercher des contenus spécifiques dans ces fichiers ;
 - changer le format d'un fichier en un autre ;
 - faire des calculs de base sur les données extraites des fichiers ;
 - réaliser une suite de tâches plus ou moins complexes ;
 - avoir les bases pour continuer à vous former par vous même après la fin du DU.
 
+En outre, vous apprendrez à :
+- utiliser des modules incontournables en analyse de données (pandas, numpy, matplolib) ;
+- utiliser et concevoir des *notebooks* Jupyter.
+
 ## Organisation des cours
 
-Les enseignements seront donnés sous forme de cours / TP, quelques minutes de théorie seront suivies d'une mise en pratique immédiate. 
+Les enseignements seront donnés sous forme de cours / TP, quelques minutes de théorie en *live coding* seront suivies d'une mise en pratique immédiate. 
 
-A titre indicatif, nous détaillons dans la suite le découpage des différentes séances. Ce découpage est succeptible de changer en fonction du degré d'avancement de l'ensemble des stagiaires.
+A titre indicatif, nous détaillons dans la suite le découpage des différentes séances. Ce découpage est succeptible de changer en fonction du degré d'avancement de l'ensemble des stagiaires. N'hésitez pas à revenir régulièrement sur cette page pendant la formation.
 
 ### Séance 1
 
@@ -104,7 +110,7 @@ Dictionnaires/tuples, pandas (manipulation & analyse de données).
 
 Jeudi 26 mars : 9h - 12h
 
-Instructeurs : Pierre Poulain et Sandra Dérozier ; helper : Hubert Santuz
+Instructeurs : Pierre Poulain, Sandra Dérozier & Patrick Fuchs; helper : Hubert Santuz
 
 Cas d’applications.
 
