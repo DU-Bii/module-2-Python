@@ -86,7 +86,7 @@ Consolidation des bases, fichiers, modules.
 
 Jeudi 12 mars : 13h30 - 16h30
 
-Instructeurs : Pierre Poulain & Patrick Fuchs
+Instructeurs : Pierre Poulain et Patrick Fuchs
 
 Jupyter & Matplotlib.
 
@@ -110,7 +110,7 @@ Dictionnaires/tuples, pandas (manipulation & analyse de données).
 
 Jeudi 26 mars : 9h - 12h
 
-Instructeurs : Pierre Poulain, Sandra Dérozier & Patrick Fuchs; helper : Hubert Santuz
+Instructeurs : Pierre Poulain, Sandra Dérozier & Patrick Fuchs ; helper : Hubert Santuz
 
 Cas d’applications.
 
