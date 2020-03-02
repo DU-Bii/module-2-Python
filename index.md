@@ -10,13 +10,37 @@ Bienvenue au cours de Python du DU Bii. Vous trouverez sur ce dépôt toutes les
 
 ## Prérequis
 
-Le cours se trouve ici : <https://python.sdv.univ-paris-diderot.fr/>.
+Dans un premier temps, nous vous suggérons d'apprendre les bases de Python sur le site de DataCamp.
 
-Pour commencer, vous pouvez lire rapidement ce [pdf](intro_prog_format_donnees.pdf) synthétisant le principe de la programmation.
+Cours [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) sur DataCamp.
 
-Nous vous suggérons de prendre connaissance des 3 premiers chapitres du lien ci-desssus, en lecture passive (sans réaliser les exercices), et seulement les 3 premiers !
+Chapitres à traiter :
 
-Pour info, nous comptons aller du chapitre 1 à 13 au cours de la formation.
+* Python Basics
+* Python Lists
+* Functions and Packages
+
+Temps estimé : 4 heures.
+
+Ensuite, nous vous demandons de travailler [notre ressource Python en ligne](https://python.sdv.univ-paris-diderot.fr/), en particulier les deux chapitres suivants :
+
+[Boucles et comparaisons](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/) et les exercices
+
+* 5.4.2. Boucle et jours de la semaine
+* 5.4.4. Nombres pairs et impairs
+* 5.4.5. Calcul de la moyenne
+
+[Tests](https://python.sdv.univ-paris-diderot.fr/06_tests/) et les exercices
+
+* 6.7.1. Jours de la semaine
+* 6.7.2. Séquence complémentaire d'un brin d'ADN
+* 6.7.4. Fréquence des acides aminés
+
+Temps estimé : 1 heure.
+
+Pour la partie sur les boucles et les tests, nous vous conseillons d'utiliser le site [pythontutor](http://pythontutor.com/) qui permet de "pythonner" en ligne sans avoir à installer Python sur votre machine.
+
+Lors du premier cours, nous vous fournirons un polycopié complet du cours. Inutile donc de l'imprimer de votre côté.
 
 ## Synopsis
 
