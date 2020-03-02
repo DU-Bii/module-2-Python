@@ -72,11 +72,15 @@ Numpy (calculs numériques).
 
 Mardi 24 mars : 14h30 - 17h30
 
+Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Pierre Poulain
+
 Dictionnaires/tuples, pandas (manipulation & analyse de données).
 
 ### Séance 6
 
 Jeudi 26 mars : 9h - 12h
+
+Instructeurs : Pierre Poulain et Sandra Dérozier ; helper : Hubert Santuz
 
 Cas d’applications.
 
