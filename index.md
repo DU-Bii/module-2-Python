@@ -74,6 +74,15 @@ Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Hubert Santuz
 
 Révisions des bases travaillées en autonomie (variables, listes, boucles, comparaisons, tests).
 
+**Corrections des exercices**
+
+Les corrections des exercices se trouvent sur [Moodle](https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=10629#section-3).
+
+**Liens vers des articles intéressants**
+
+* Lien vers une [interview de Guido van RossumURL](https://moodlesupd.script.univ-paris-diderot.fr/mod/url/view.php?id=223601)
+* Un article intéressant qui montre l'importance de la programmation en biologie et qui évoque Python bien sûr ! [Ten simple rules for biologists learning to programURL](https://moodlesupd.script.univ-paris-diderot.fr/mod/url/view.php?id=223602)
+
 **Un peu de travail pour la prochaine séance**
 
 * lire le chapitre **[3.2. Ecriture formatée](https://python.sdv.univ-paris-diderot.fr/03_affichage/#32-ecriture-formatee)**
