@@ -74,6 +74,11 @@ Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Hubert Santuz
 
 Révisions des bases travaillées en autonomie (variables, listes, boucles, comparaisons, tests).
 
+**Un peu de travail pour la prochaine séance**
+
+* lire le chapitre **[3.2. Ecriture formatée](https://python.sdv.univ-paris-diderot.fr/03_affichage/#32-ecriture-formatee)**
+* faire les exercices sur les **boucles** ([5.4.1 à 5.4.9](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/#54-exercices))
+
 ### Séance 2
 
 Mercredi 4 mars : 14h30 - 17h30
