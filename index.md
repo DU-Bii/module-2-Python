@@ -77,6 +77,7 @@ Révisions des bases travaillées en autonomie (variables, listes, boucles, comp
 **Un peu de travail pour la prochaine séance**
 
 * lire le chapitre **[3.2. Ecriture formatée](https://python.sdv.univ-paris-diderot.fr/03_affichage/#32-ecriture-formatee)**
+* faire les exercices sur l'**écriture formatée** ([3.5.1 à 3.5.5](https://python.sdv.univ-paris-diderot.fr/03_affichage/#35-exercices))
 * faire les exercices sur les **boucles** ([5.4.1 à 5.4.9](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/#54-exercices))
 
 ### Séance 2
