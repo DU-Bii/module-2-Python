@@ -80,8 +80,8 @@ Les corrections des exercices se trouvent sur [Moodle](https://moodlesupd.script
 
 **Liens vers des articles intéressants**
 
-* Lien vers une [interview de Guido van RossumURL](https://moodlesupd.script.univ-paris-diderot.fr/mod/url/view.php?id=223601)
-* Un article intéressant qui montre l'importance de la programmation en biologie et qui évoque Python bien sûr ! [Ten simple rules for biologists learning to programURL](https://moodlesupd.script.univ-paris-diderot.fr/mod/url/view.php?id=223602)
+* Lien vers une [interview de Guido van RossumURL](https://lemonde.fr/pixels/article/2018/07/25/je-n-imaginais-pas-que-python-connaitrait-un-tel-succes_5335917_4408996.html)
+* Un article intéressant qui montre l'importance de la programmation en biologie et qui évoque Python bien sûr ! [Ten simple rules for biologists learning to programURL](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871)
 
 **Un peu de travail pour la prochaine séance**
 
