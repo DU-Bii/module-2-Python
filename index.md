@@ -4,7 +4,7 @@ Bienvenue au cours de Python du DU Bii. Vous trouverez sur ce dépôt toutes les
 ## Intervenants
 
 1. Patrick Fuchs, Univ. Paris Diderot, `<patrick.fuchs@univ-paris-diderot.fr>` (co-responsable)
-2. Sandra Dérozier, INRA, `<sandra.derozier@inra.fr>` (co-responsable)
+2. Sandra Dérozier, INRAE, `<sandra.derozier@inra.fr>` (co-responsable)
 3. Pierre Poulain, Univ. Paris Diderot, `<pierre.poulain@univ-paris-diderot.fr>`
 4. Hubert Santuz, CNRS, `<hubert.santuz@gmail.com>`
 
