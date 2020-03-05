@@ -101,6 +101,10 @@ Consolidation des bases, fichiers, modules.
 
 Les corrections des exercices se trouvent sur [Moodle](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
 
+**Arithmétique des floats**
+
+Si vous souhaitez comprendre pourquoi [l'arithmétique des floats est limitée à une certaine précision](https://docs.python.org/3/tutorial/floatingpoint.html).
+
 **Un peu de travail pour la prochaine séance**
 
 * lire le chapitre **[7. Fichiers](https://python.sdv.univ-paris-diderot.fr/07_fichiers/)**
