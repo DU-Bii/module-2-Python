@@ -3,10 +3,11 @@ Bienvenue au cours de Python du DU Bii. Vous trouverez sur ce dépôt toutes les
 =======
 ## Intervenants
 
-1. Patrick Fuchs, Univ. Paris Diderot, `<patrick.fuchs@univ-paris-diderot.fr>` (co-responsable)
+1. Patrick Fuchs, Université de Paris, `<patrick.fuchs@u-paris.fr>` (co-responsable)
 2. Sandra Dérozier, INRAE, `<sandra.derozier@inra.fr>` (co-responsable)
-3. Pierre Poulain, Univ. Paris Diderot, `<pierre.poulain@univ-paris-diderot.fr>`
+3. Pierre Poulain, Université de Paris, `<pierre.poulain@u-paris.fr>`
 4. Hubert Santuz, CNRS, `<hubert.santuz@gmail.com>`
+
 
 ## Prérequis
 
