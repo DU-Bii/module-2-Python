@@ -118,9 +118,10 @@ Si vous souhaitez comprendre pourquoi [l'arithmétique des floats est limitée �
 
 Jeudi 12 mars : 13h30 - 16h30
 
-Instructeurs : Pierre Poulain et Patrick Fuchs
+Instructeurs : Pierre Poulain et Patrick Fuchs ; helper : Hubert Santuz
 
-Jupyter & Matplotlib.
+Fichiers, Jupyter & Matplotlib.
+
 
 ### Séance 4
 
