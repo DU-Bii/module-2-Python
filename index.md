@@ -123,6 +123,7 @@ Instructeurs : Pierre Poulain et Patrick Fuchs ; helper : Hubert Santuz
 Fichiers, [Jupyter & Matplotlib](https://cupnet.net/intro-jupyter-dubii/).
 
 
+
 ### Séance 4
 
 Mardi 24 mars : 9h30 - 12h30
