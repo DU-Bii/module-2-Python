@@ -98,7 +98,7 @@ Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Hubert Santuz
 
 Consolidation des bases, fichiers, modules.
 
-** Session de cours **
+**Session de cours**
 
 Voici la [session de cours sur les boucles et tests](data/session_python_2020-03-04_apm_readable.txt).
 
@@ -124,12 +124,12 @@ Jeudi 12 mars : 13h30 - 16h30
 
 Instructeurs : Pierre Poulain et Patrick Fuchs ; helper : Hubert Santuz
 
-** Corrections exercices **
+**Corrections exercices**
 
 - [pyramide avec opérateur de formatage](data/pyramides.py) ou [pyramide en calculant le nombre d'espaces et d'étoiles](data/pyramides2.py)
 - [parcours de matrice](data/parcours_matrice.py)
 
-** Session de cours **
+**Session de cours**
 
 Voici la [session de cours sur les fichiers et les modules](data/session_python_2020-03-12_apm_readable.txt).
 
