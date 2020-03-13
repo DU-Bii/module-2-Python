@@ -1,0 +1,276 @@
+[fuchs@danube ~]$ !conda
+conda activate md_python3
+(md_python3) [fuchs@danube dubii]$ cd Enseignement/dubii
+(md_python3) [fuchs@danube dubii]$ ls
+2019            sesssion_python_2020-03-04_apm.txt  zoo.txt
+DUBii-2-Python  sesssion_python_2020-03-04_apm.zip
+(md_python3) [fuchs@danube dubii]$ more zoo.txt
+girafe
+tigre
+singe
+souris
+(md_python3) [fuchs@danube dubii]$ python
+Python 3.7.3 | packaged by conda-forge | (default, Jul  1 2019, 21:52:21)
+[GCC 7.3.0] :: Anaconda, Inc. on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> open("zoo.txt", "r")
+<_io.TextIOWrapper name='zoo.txt' mode='r' encoding='UTF-8'>
+>>>
+>>>
+>>> type(5)
+<class 'int'>
+>>> open("zoo.txt", "r")
+<_io.TextIOWrapper name='zoo.txt' mode='r' encoding='UTF-8'>
+>>> filin = open("zoo.txt", "r")
+>>> filin
+<_io.TextIOWrapper name='zoo.txt' mode='r' encoding='UTF-8'>
+>>> filin.readlines()
+['girafe\n', 'tigre\n', 'singe\n', 'souris\n']
+>>> filin.readlines()
+[]
+>>> filin.close()
+>>> filin = open("zoo.txt", "r")
+KeyboardInterrupt
+>>>
+>>>
+>>> filin = open("zoo.txt", "r")
+>>> filin.readlines()
+['girafe\n', 'tigre\n', 'singe\n', 'souris\n']
+>>> filin.seek(0)
+0
+>>> filin.seek(0)
+0
+>>> filin.readlines()
+['girafe\n', 'tigre\n', 'singe\n', 'souris\n']
+>>>
+>>>
+>>> filin = open("zoo.txt", "r")
+>>> for ligne in filin:
+...      print(ligne)
+...
+girafe
+tigre
+singe
+souris
+>>> filin = open("zoo.txt", "r")
+>>> for ligne in filin:
+...     print(ligne, end="")
+...
+girafe
+tigre
+singe
+souris
+>>> filin = open("zoo.txt", "r")
+>>> for ligne in filin.readlines():
+...     print(ligne, end="")
+...
+girafe
+tigre
+singe
+souris
+>>>
+>>>
+>>> with open("zoo.txt", "r") as filin:
+...    for ligne in filin:
+...        print(ligne)
+...
+girafe
+tigre
+singe
+souris
+>>>
+>>>
+>>>
+>>> animaux = ["chien", "chat", "ornythorinque"]
+>>> open("zoo2.txt", "w")
+<_io.TextIOWrapper name='zoo2.txt' mode='w' encoding='UTF-8'>
+>>> filout = open("zoo2.txt", "w")
+>>>
+[2]+  Stopped                 python
+(md_python3) [fuchs@danube dubii]$ ls
+2019            sesssion_python_2020-03-04_apm.txt  zoo2.txt
+DUBii-2-Python  sesssion_python_2020-03-04_apm.zip  zoo.txt
+(md_python3) [fuchs@danube dubii]$ ls -l
+total 40
+drwxr-xr-x 1 fuchs fuchs   512 Mar  5 09:32 2019
+drwxr-xr-x 1 fuchs fuchs   512 Mar 12 14:21 DUBii-2-Python
+-rw-r--r-- 1 fuchs fuchs 30133 Mar  4 20:57 sesssion_python_2020-03-04_apm.txt
+-rw-r--r-- 1 fuchs fuchs  6004 Mar  4 21:04 sesssion_python_2020-03-04_apm.zip
+-rw-r--r-- 1 fuchs fuchs     0 Mar 12 14:33 zoo2.txt
+-rw-r--r-- 1 fuchs fuchs    26 Mar 12 14:19 zoo.txt
+(md_python3) [fuchs@danube dubii]$ fg
+python
+>>> animaux
+['chien', 'chat', 'ornythorinque']
+>>> filout.write("bonjour")
+7
+>>> filout.write("au revoir")
+9
+>>>
+[2]+  Stopped                 python
+(md_python3) [fuchs@danube dubii]$ ls -ltrh
+total 40K
+-rw-r--r-- 1 fuchs fuchs  30K Mar  4 20:57 sesssion_python_2020-03-04_apm.txt
+-rw-r--r-- 1 fuchs fuchs 5.9K Mar  4 21:04 sesssion_python_2020-03-04_apm.zip
+drwxr-xr-x 1 fuchs fuchs  512 Mar  5 09:32 2019
+-rw-r--r-- 1 fuchs fuchs   26 Mar 12 14:19 zoo.txt
+drwxr-xr-x 1 fuchs fuchs  512 Mar 12 14:21 DUBii-2-Python
+-rw-r--r-- 1 fuchs fuchs    0 Mar 12 14:33 zoo2.txt
+(md_python3) [fuchs@danube dubii]$ fg
+python
+>>> filout.close()
+>>>
+[2]+  Stopped                 python
+(md_python3) [fuchs@danube dubii]$ lr
+total 40K
+-rw-r--r-- 1 fuchs fuchs  30K Mar  4 20:57 sesssion_python_2020-03-04_apm.txt
+-rw-r--r-- 1 fuchs fuchs 5.9K Mar  4 21:04 sesssion_python_2020-03-04_apm.zip
+drwxr-xr-x 1 fuchs fuchs  512 Mar  5 09:32 2019
+-rw-r--r-- 1 fuchs fuchs   26 Mar 12 14:19 zoo.txt
+drwxr-xr-x 1 fuchs fuchs  512 Mar 12 14:21 DUBii-2-Python
+-rw-r--r-- 1 fuchs fuchs   16 Mar 12 14:35 zoo2.txt
+(md_python3) [fuchs@danube dubii]$ more zoo2.txt
+bonjourau revoir
+(md_python3) [fuchs@danube dubii]$ fg
+python
+>>> animaux
+['chien', 'chat', 'ornythorinque']
+>>> with open("zoo2.txt", "w") as filout:
+...     for animal in animaux:
+...          filout.write("{}\n".format(animal))
+...
+6
+5
+14
+>>>
+[2]+  Stopped                 python
+(md_python3) [fuchs@danube dubii]$ ls -ltrh
+total 40K
+-rw-r--r-- 1 fuchs fuchs  30K Mar  4 20:57 sesssion_python_2020-03-04_apm.txt
+-rw-r--r-- 1 fuchs fuchs 5.9K Mar  4 21:04 sesssion_python_2020-03-04_apm.zip
+drwxr-xr-x 1 fuchs fuchs  512 Mar  5 09:32 2019
+-rw-r--r-- 1 fuchs fuchs   26 Mar 12 14:19 zoo.txt
+drwxr-xr-x 1 fuchs fuchs  512 Mar 12 14:21 DUBii-2-Python
+-rw-r--r-- 1 fuchs fuchs   25 Mar 12 14:40 zoo2.txt
+(md_python3) [fuchs@danube dubii]$ more zoo2.txt
+chien
+chat
+ornythorinque
+(md_python3) [fuchs@danube dubii]$ exit
+There are stopped jobs.
+(md_python3) [fuchs@danube dubii]$ python
+Python 3.7.3 | packaged by conda-forge | (default, Jul  1 2019, 21:52:21)
+[GCC 7.3.0] :: Anaconda, Inc. on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+>>>
+>>> import random
+>>> dir(random)
+['BPF', 'LOG4', 'NV_MAGICCONST', 'RECIP_BPF', 'Random', 'SG_MAGICCONST', 'SystemRandom', 'TWOPI', '_BuiltinMethodType', '_MethodType', '_Sequence', '_Set',
+ '__all__', '__builtins__', '__cached__', '__doc__', '__file__', '__loader__', '__name__', '__package__', '__spec__', '_acos', '_bisect', '_ceil', '_cos',
+'_e', '_exp', '_inst', '_itertools', '_log', '_os', '_pi', '_random', '_sha512', '_sin', '_sqrt', '_test', '_test_generator', '_urandom', '_warn', 'betavar
+iate', 'choice', 'choices', 'expovariate', 'gammavariate', 'gauss', 'getrandbits', 'getstate', 'lognormvariate', 'normalvariate', 'paretovariate', 'randint
+', 'random', 'randrange', 'sample', 'seed', 'setstate', 'shuffle', 'triangular', 'uniform', 'vonmisesvariate', 'weibullvariate']
+>>> random.randint(1, 10)
+4
+>>> help(random.randint)
+Help on method randint in module random:
+randint(a, b) method of random.Random instance
+    Return random integer in range [a, b], including both end points.
+>>> help(random)
+Help on module random:
+NAME
+    random - Random variable generators.
+MODULE REFERENCE
+    https://docs.python.org/3.7/library/random
+    The following documentation is automatically generated from the Python
+    source files.  It may be incomplete, incorrect or include features that
+    are considered implementation detail and may vary between Python
+    implementations.  When in doubt, consult the module reference at the
+    location listed above.
+DESCRIPTION
+        integers
+        --------
+               uniform within range
+        sequences
+        ---------
+               pick random element
+[...]
+>>>
+>>>
+>>> for i in range(50)
+  File "<stdin>", line 1
+    for i in range(50)
+                     ^
+SyntaxError: invalid syntax
+>>> for i in range(50):
+...     print(random.gauss(1,1))
+...
+1.643253345529937
+3.18197607249882
+-0.6507396696018075
+1.288435186606897
+1.4807270791759124
+0.5079449298717078
+2.348830393074151
+0.35961536089450874
+-0.5694990409730631
+0.07777210372182242
+0.2538762133307537
+1.3189833639548008
+-0.37803230849211666
+1.5027286784003642
+-0.32630183694108106
+1.8254599272771606
+2.601776995657294
+0.5057995960917994
+1.468373762249249
+0.23854680018534136
+1.3806626920443237
+1.747494864847527
+1.5579100613167316
+1.558803475939111
+1.7040612589946666
+-0.5535045322950509
+1.0842849081266408
+0.9901429707524163
+2.44310658817239
+0.6256309322982081
+0.016287093226127092
+0.08523751000167024
+-0.07913142796255457
+0.9371001364043282
+2.0530135337740605
+3.1065237681050073
+1.0974972195226875
+1.635353927078526
+0.9535067296371476
+-0.21288266181538407
+1.3466357511803961
+0.6751968239233488
+2.0271138039756122
+1.573088688812443
+1.0313230842232808
+1.4310502730023758
+-1.321202438736838
+0.588444219838407
+1.8699450620738851
+0.20521340217237916
+>>> import random as rd
+>>> rd.randint(1, 10)
+1
+>>> from random import randint
+>>> randint(1, 10)
+4
+>>>
+(md_python3) [fuchs@danube dubii]$ python
+Python 3.7.3 | packaged by conda-forge | (default, Jul  1 2019, 21:52:21)
+[GCC 7.3.0] :: Anaconda, Inc. on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> randint
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'randint' is not defined
+>>> import random
+>>> random.randint
+<bound method Random.randint of <
