@@ -96,7 +96,7 @@ Mercredi 4 mars : 14h30 - 17h30
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Hubert Santuz
 
-Consolidation des bases, fichiers, modules.
+Consolidation des bases (boucles, tests), fichiers, modules.
 
 **Session de cours**
 
@@ -124,6 +124,8 @@ Jeudi 12 mars : 13h30 - 16h30
 
 Instructeurs : Pierre Poulain et Patrick Fuchs ; helper : Hubert Santuz
 
+Fichiers, Modules, [Jupyter & Matplotlib](https://cupnet.net/intro-jupyter-dubii/).
+
 **Corrections exercices**
 
 - [pyramide avec opérateur de formatage](data/pyramides.py) ou [pyramide en calculant le nombre d'espaces et d'étoiles](data/pyramides2.py)
@@ -132,8 +134,6 @@ Instructeurs : Pierre Poulain et Patrick Fuchs ; helper : Hubert Santuz
 **Session de cours**
 
 Voici la [session de cours sur les fichiers et les modules](data/session_python_2020-03-12_apm_readable.txt).
-
-Fichiers, Modules, [Jupyter & Matplotlib](https://cupnet.net/intro-jupyter-dubii/).
 
 **Un peu de travail pour la prochaine séance**
 
