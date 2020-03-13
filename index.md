@@ -138,9 +138,9 @@ Fichiers, Modules, [Jupyter & Matplotlib](https://cupnet.net/intro-jupyter-dubii
 **Un peu de travail pour la prochaine séance**
 
 - Refaire le TP sur Jupyter
-- Exo 5.4.12 Parcours de demi-matrice sans la diagonale
-- Exo 6.7.9 (méthode 2) Détermination des nombres premiers inférieurs à 100
-- Exo 8.7.9 Détermination du nombre pi par la méthode Monte-Carlo ; si vous vous sentez capable, vous pouvez essayer de faire l'exercice dans un notebook jupyter et de faire un plot inspiré de la [page Wikipedia sur le Monte-Carlo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pi_30K.gif/440px-Pi_30K.gif) : les points dans le cercle en rouge, les points or du cercle en bleu. Vous pouvez utiliser pour cela la fonction `plt.scatter(x, y)`. Cette fonction dessine un nuage de points dans un graphe, par exemple :
+- [Exo 5.4.12](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/#5412-parcours-de-demi-matrice-sans-la-diagonale-exercice) Parcours de demi-matrice sans la diagonale
+- [Exo 6.7.9 (méthode 2)](https://python.sdv.univ-paris-diderot.fr/06_tests/#methode-2-plus-optimale-et-plus-rapide-mais-un-peu-plus-compliquee) Détermination des nombres premiers inférieurs à 100
+- [Exo 8.7.9](https://python.sdv.univ-paris-diderot.fr/08_modules/#879-determination-du-nombre-pi-par-la-methode-monte-carlo-exercice) Détermination du nombre pi par la méthode Monte-Carlo ; si vous vous sentez capable, vous pouvez essayer de faire l'exercice dans un notebook jupyter et de faire un plot inspiré de la [page Wikipedia sur le Monte-Carlo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pi_30K.gif/440px-Pi_30K.gif) : les points dans le cercle en rouge, les points or du cercle en bleu. Vous pouvez utiliser pour cela la fonction `plt.scatter(x, y)`. Cette fonction dessine un nuage de points dans un graphe, par exemple :
 
 ```
 import matplotlib.pyplot as plt
@@ -152,7 +152,7 @@ plt.scatter(x,y)
 plt.show() # inutile dans un notebook, obligatoire dans un script lancé dans un shell
 ```
 
-- Lire les chapitres 10 (Plus sur les chaînes de caractères) et chapitres 11 (Plus sur les listes)
+- Lire les chapitres [10 Plus sur les chaînes de caractères](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/) et [11 Plus sur les listes](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/)
 
 
 ### Séance 4
