@@ -120,8 +120,27 @@ Jeudi 12 mars : 13h30 - 16h30
 
 Instructeurs : Pierre Poulain et Patrick Fuchs ; helper : Hubert Santuz
 
-Fichiers, [Jupyter & Matplotlib](https://cupnet.net/intro-jupyter-dubii/).
+Corrections exercices (pyramides et parcours de matrice)
 
+Fichiers, Modules, [Jupyter & Matplotlib](https://cupnet.net/intro-jupyter-dubii/).
+
+**Un peu de travail pour la prochaine séance**
+
+- Refaire le TP sur Jupyter
+- Exo 5.4.12 Parcours de demi-matrice sans la diagonale
+- Exo 6.7.9 (méthode 2) Détermination des nombres premiers inférieurs à 100
+- Exo 8.7.9 Détermination du nombre pi par la méthode Monte-Carlo ; si vous vous sentez capable, vous pouvez essayer de faire l'exercice dans un notebook jupyter et de faire un plot inspiré de la [page Wikipedia sur le Monte-Carlo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pi_30K.gif/440px-Pi_30K.gif) : les points dans le cercle en rouge, les points or du cercle en bleu. Vous pouvez utiliser pour cela la fonction `plt.scatter(x, y)`. Cette fonction dessine un nuage de points dans un graphe, par exemple :
+
+```
+import matplotlib.pyplot as plt
+
+x = [1, 3, 4, 4, 7, 8, 2, 5, 7, 2]
+y = [8, 9, 1, 2, 9, 4, 2, 2, 2, 8]
+
+plt.scatter(x,y)
+```
+
+- Lire les chapitres 10 (Plus sur les chaînes de caractères) et chapitres 11 (Plus sur les listes)
 
 
 ### Séance 4
@@ -130,7 +149,7 @@ Mardi 24 mars : 9h30 - 12h30
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
 
-Numpy (calculs numériques).
+Plus sur les chaînes de caractères. Plus sur les listes. Numpy (calculs numériques).
 
 ### Séance 5
 
