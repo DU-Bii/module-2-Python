@@ -138,6 +138,7 @@ x = [1, 3, 4, 4, 7, 8, 2, 5, 7, 2]
 y = [8, 9, 1, 2, 9, 4, 2, 2, 2, 8]
 
 plt.scatter(x,y)
+plt.show() # inutile dans un notebook, obligatoire dans un script lancé dans un shell
 ```
 
 - Lire les chapitres 10 (Plus sur les chaînes de caractères) et chapitres 11 (Plus sur les listes)
