@@ -155,9 +155,28 @@ plt.show() # inutile dans un notebook, obligatoire dans un script lancé dans un
 - Lire les chapitres [10 Plus sur les chaînes de caractères](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/) et [11 Plus sur les listes](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/)
 - Faire le [QCM d'entraînement](https://moodlesupd.script.univ-paris-diderot.fr/mod/quiz/view.php?id=225633)
 
+### Exercices pour ne pas perdre la main pendant le confinement
+
+#### Exo du 3 avril 2020
+
+Télécharger la séquence du [génome du SARS-COV2 au format fasta](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3?report=fasta). Dans le même répertoire, créer un script nommé `compo_sars_cov2.py` qui calcul la composition en ATGC de ce génome. Voici les différentes étapes proposées :
+- Ouvrir le fichier en lecture avec `with` et récupérer la séquence dans une chaine de caractères `seq` ;
+- Attention à ne pas récupérer la première ligne qui commence par le caractère `>` (tiens n'y avait-il pas une méthode pour ça dans le chapitre 10 ;-) ???) ;
+- Attention à chaque ligne il vous faudra enlever le retour à la ligne (*hint* la méthode `.strip()` est votre amie, cf. chapitre 10 ;-) !) ;
+- Une fois la séquence récupérée, faire une boucle sur tout le génome et calculer le nombre de ATGC ;
+- Au final on souhaite la sortie suivante (où vous remplacerez les X par les vraies valeurs) :
+
+```
+La longueur du génome est XXXXX bases
+nbA =  XXXX bases ; %age A = XX.XX %
+nbT =  XXXX bases ; %age T = XX.XX %
+nbG =  XXXX bases ; %age G = XX.XX %
+nbC =  XXXX bases ; %age C = XX.XX %
+```
+
 ### Séance 4
 
-Mardi 24 mars : 9h30 - 12h30
+Initialement prévue le Mardi 24 mars : 9h30 - 12h30
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier
 
@@ -165,7 +184,7 @@ Plus sur les chaînes de caractères. Plus sur les listes. Numpy (calculs numér
 
 ### Séance 5
 
-Mardi 24 mars : 14h30 - 17h30
+Initialement prévue le Mardi 24 mars : 14h30 - 17h30
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Pierre Poulain
 
@@ -173,7 +192,7 @@ Dictionnaires/tuples, pandas (manipulation & analyse de données).
 
 ### Séance 6
 
-Jeudi 26 mars : 9h - 12h
+Initialement prévue le Jeudi 26 mars : 9h - 12h
 
 Instructeurs : Pierre Poulain, Sandra Dérozier & Patrick Fuchs ; helper : Hubert Santuz
 
