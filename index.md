@@ -159,7 +159,7 @@ plt.show() # inutile dans un notebook, obligatoire dans un script lancé dans un
 
 #### Exo du 3 avril 2020
 
-Télécharger la séquence du [génome du SARS-COV2 au format fasta](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3?report=fasta). Dans le même répertoire, créer un script nommé `compo_sars_cov2.py` qui calcul la composition en ATGC de ce génome. Voici les différentes étapes proposées :
+Télécharger la séquence du [génome du SARS-COV2 au format fasta](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3?report=fasta). Dans le même répertoire, créer un script nommé `compo_sars_cov2.py` qui calcule la composition en ATGC de ce génome. Voici les différentes étapes proposées :
 - Ouvrir le fichier en lecture avec `with` et récupérer la séquence dans une chaine de caractères `seq` ;
 - Attention à ne pas récupérer la première ligne qui commence par le caractère `>` (tiens n'y avait-il pas une méthode pour ça dans le chapitre 10 ;-) ???) ;
 - Attention à chaque ligne il vous faudra enlever le retour à la ligne (*hint* la méthode `.strip()` est votre amie, cf. chapitre 10 ;-) !) ;
