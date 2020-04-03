@@ -173,6 +173,9 @@ nbT =  XXXX bases ; %age T = XX.XX %
 nbG =  XXXX bases ; %age G = XX.XX %
 nbC =  XXXX bases ; %age C = XX.XX %
 ```
+- Ainsi qu'un graphe en batons avec matplotlib du pourcentage d'ATGC.
+
+*Pour les warriors* : vous pouvez faire ça dans un notebook jupyter !
 
 ### Séance 4
 
