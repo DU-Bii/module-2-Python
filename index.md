@@ -157,6 +157,10 @@ plt.show() # inutile dans un notebook, obligatoire dans un script lancé dans un
 
 ### Exercices pour ne pas perdre la main pendant le confinement
 
+#### Correction du Monte-Carlo pour la détermination du nombre pi
+
+Le notebook corrigeant l'exo 8.7.9 est [ici](data/pi_MC.ipynb).
+
 #### Exo du 3 avril 2020
 
 Télécharger la séquence du [génome du SARS-COV2 au format fasta](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3?report=fasta). Dans le même répertoire, créer un script nommé `compo_sars_cov2.py` qui calcule la composition en ATGC de ce génome. Voici les différentes étapes proposées :
