@@ -159,7 +159,7 @@ plt.show() # inutile dans un notebook, obligatoire dans un script lancé dans un
 
 #### Correction du Monte-Carlo pour la détermination du nombre pi
 
-Le notebook corrigeant l'exo 8.7.9 est [ici pour le regarder](https://github.com/DU-Bii/module-2-Python/blob/master/data/pi_MC_fonction.ipynb), pour le télécharger c'est [ici](data/pi_MC.ipynb).
+Le notebook corrigeant l'exo 8.7.9 est [ici pour le regarder](https://github.com/DU-Bii/module-2-Python/blob/master/data/pi_MC.ipynb), pour le télécharger c'est [ici](data/pi_MC.ipynb).
 
 #### Exo du 3 avril 2020
 
