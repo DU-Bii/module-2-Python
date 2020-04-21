@@ -181,6 +181,34 @@ nbC =  XXXX bases ; %age C = XX.XX %
 
 *Pour les warriors* : vous pouvez faire ça dans un notebook jupyter !
 
+#### Exo du 21 avril 2020
+
+Sur la base de l'exercice précédent, on se propose de faire une représentation du génome du SARS-COV2 en [chaos game](https://en.wikipedia.org/wiki/Chaos_game). Cette méthode de représentation basée sur les fractales comme le [triangle de Sierpinski](https://fr.wikipedia.org/wiki/Triangle_de_Sierpi%C5%84ski) permet d'avoir une vision d'un génome en un coup d'oeil ([ici](http://www.cs.gettysburg.edu/~ilinkin/projects/bio/chaosgame/home.html) un exemple).
+
+Voici l'algorithme du chaos game appliqué à une séquence d'ADN :
+
+- Soit une séquence d’ADN seq de longueur suffisante (> 10000 pb)
+- Soit un espace carré où les 4 sommets de ce carré représentent les 4 bases ATGC
+- Au départ, on se place au milieu du carré
+- On lit la séquence nucléotide par nucléotide
+  - A chaque nucléotide lu, on se déplace au centre du segment entre la position actuelle et le sommet représentant le nucléotide actuellement lu
+
+Un exemple est illustré ci-dessous sur le début d’une séquence d’ADN :
+
+![](img/chaos_game.png)
+
+Comme montré dans le schéma, on pourra arbitrairement décider que le C possède les coordonnées (0,0), G(1,0), A(0,1) et T (1,1). Pour tracer les points, vous pourrez utiliser la fonction `plt.scatter()` de matplotlib (cf. exo de calcul de Pi par Monte-Carlo).
+
+Conseils : 
+
+- Faites-vous la main sur une séquence très courte, puis une fois que ça fonctionne passez sur le génome du virus.
+- Une pixelle représente un nucléotide, on utilise la même couleur pour toute les pixelles. Chaque pixelle doit être très petite : avec la fonction `plt.scatter()`, utilisez les arguments `s=1` (*size*) et `linewidth=0`.
+- Si vous mettez une instruction `plt.scatter(x, y)` à chaque itération de la boucle principale, le code sera très long à tourner pour le génome du virus (> 10'). Stockez plutôt les coordonnées *x* et *y* de vos points dans des listes puis passez ces listes comme argument à la fonction `plt.scatter()` une fois la boucle principale terminée.
+
+Bien sûr vous pouvez vous amuser à faire l'exercice dans un notebook Jupyter :wink:.
+
+Pour aller un peu plus loin sur le chaos game, voici un [article](https://doi.org/10.1093/oxfordjournals.molbev.a026048) faisant le tour de la technique.
+
 ### Séance 4
 
 Initialement prévue le Mardi 24 mars : 9h30 - 12h30
