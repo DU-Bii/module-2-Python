@@ -181,6 +181,8 @@ nbC =  XXXX bases ; %age C = XX.XX %
 
 *Pour les warriors* : vous pouvez faire ça dans un notebook jupyter !
 
+*Ajout du 22/04/2020* : voici une correction possible dans un [notebook jupyter](data/compo_sars_cov2.ipynb).
+
 #### Exo du 21 avril 2020
 
 Sur la base de l'exercice précédent, on se propose de faire une représentation du génome du SARS-COV2 en [chaos game](https://en.wikipedia.org/wiki/Chaos_game). Cette méthode de représentation basée sur les fractales comme le [triangle de Sierpinski](https://fr.wikipedia.org/wiki/Triangle_de_Sierpi%C5%84ski) permet d'avoir une vision d'un génome en un coup d'oeil ([ici](http://www.cs.gettysburg.edu/~ilinkin/projects/bio/chaosgame/home.html) un exemple).
