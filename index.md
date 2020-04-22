@@ -211,7 +211,7 @@ Bien sûr vous pouvez vous amuser à faire l'exercice dans un notebook Jupyter :
 
 Pour vous convaincre de l'utilité du chaos game pour comparer des séquences génomiques, vous pouvez lancer votre code sur un autre coronavirus (par exemple [FJ882960.1](https://www.ncbi.nlm.nih.gov/nuccore/FJ882960.1?report=fasta)), puis sur un virus d'une autre famille comme le HIV (par exemple [D86068.1](https://www.ncbi.nlm.nih.gov/nuccore/D86068.1?report=fasta)). Vous verrez en un coup d'oeil l'emprunte de chaque séquence apparaître :-) ! Avec cette technique, il est possible de classer les espèces :-) !
 
-Si vous souhaitez mettre plusieurs graphes sur une même figure, vous pouvez utilser la fonction `subplots()` de matplotlib :
+Si vous souhaitez mettre plusieurs graphes sur une même figure, vous pouvez utiliser la fonction `subplots()` de matplotlib :
 
 ```
 fig, axs = plt.subplots(2, 2, figsize=(10, 10))
