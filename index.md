@@ -181,7 +181,7 @@ nbC =  XXXX bases ; %age C = XX.XX %
 
 *Pour les warriors* : vous pouvez faire ça dans un notebook jupyter !
 
-*Ajout du 22/04/2020* : voici une correction possible dans un [notebook jupyter](data/compo_sars_cov2.ipynb).
+*Ajout du 22/04/2020* : voici une correction possible dans un [notebook jupyter](https://github.com/DU-Bii/module-2-Python/blob/master/data/compo_sars_cov2.ipynb), c'est [ici](data/compo_sars_cov2.ipynb) pour le télécharger.
 
 #### Exo du 21 avril 2020
 
