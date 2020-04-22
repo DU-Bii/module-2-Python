@@ -209,6 +209,8 @@ Conseils :
 
 Bien sûr vous pouvez vous amuser à faire l'exercice dans un notebook Jupyter :wink:.
 
+Pour vous convaincre de l'utilité du chaos game pour comparer des séquences génomiques, vous pouvez lancer votre code sur un autre coronavirus (par exemple FJ882960.1), puis sur un virus d'une autre famille comme le HIV (par exemple D86068.1). Vous verrez, en un coup d'oeil on voit l'emprunte de la séquence :-) !
+
 Pour aller un peu plus loin sur le chaos game, voici un [article](https://doi.org/10.1093/oxfordjournals.molbev.a026048) faisant le tour de la technique.
 
 ### Séance 4
