@@ -209,9 +209,35 @@ Conseils :
 
 Bien sûr vous pouvez vous amuser à faire l'exercice dans un notebook Jupyter :wink:.
 
-Pour vous convaincre de l'utilité du chaos game pour comparer des séquences génomiques, vous pouvez lancer votre code sur un autre coronavirus (par exemple FJ882960.1), puis sur un virus d'une autre famille comme le HIV (par exemple D86068.1). Vous verrez, en un coup d'oeil on voit l'emprunte de la séquence :-) !
+Pour vous convaincre de l'utilité du chaos game pour comparer des séquences génomiques, vous pouvez lancer votre code sur un autre coronavirus (par exemple [FJ882960.1](https://www.ncbi.nlm.nih.gov/nuccore/FJ882960.1?report=fasta)), puis sur un virus d'une autre famille comme le HIV (par exemple [D86068.1](https://www.ncbi.nlm.nih.gov/nuccore/D86068.1?report=fasta)). Vous verrez en un coup d'oeil l'emprunte de chaque séquence apparaître :-) ! Avec cette technique, il est possible de classer les espèces :-) !
 
-Pour aller un peu plus loin sur le chaos game, voici un [article](https://doi.org/10.1093/oxfordjournals.molbev.a026048) faisant le tour de la technique.
+Si vous souhaitez mettre plusieurs graphes sur une même figure, vous pouvez utilser la fonction `subplots()` de matplotlib :
+
+```
+fig, axs = plt.subplots(2, 2, figsize=(10, 10))
+
+# plot 1
+axs[0, 0].scatter(...)
+axs[0, 0].set_title(...)
+axs[0, 0].axis("off")
+
+# plot 2
+axs[0, 1].scatter(...)
+axs[0, 1].set_title(...)
+axs[0, 1].axis("off")
+
+# plot 3
+axs[1, 0].scatter(...)
+axs[1, 0].set_title(...)
+axs[1, 0].axis("off")
+
+# Pas de plot 4
+#axs[1, 1].plot()
+#axs[1, 1].set_title()
+axs[1, 1].axis("off")
+```
+
+Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](https://doi.org/10.1093/oxfordjournals.molbev.a026048) faisant le tour de la technique.
 
 ### Séance 4
 
