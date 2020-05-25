@@ -239,6 +239,8 @@ axs[1, 1].axis("off")
 
 Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](https://doi.org/10.1093/oxfordjournals.molbev.a026048) faisant le tour de la technique.
 
+*Ajout du 25/05/2020* : voici une correction possible dans un [notebook jupyter](), c'est [ici]() pour le télécharger.
+
 ### Séance 4
 
 Initialement prévue le Mardi 24 mars : 9h30 - 12h30
