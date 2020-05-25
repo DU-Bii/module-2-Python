@@ -245,9 +245,37 @@ Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](h
 
 Initialement prévue le Mardi 24 mars : 9h30 - 12h30
 
-Instructeurs : Patrick Fuchs et Sandra Dérozier
+Instructeurs : Patrick Fuchs et Sandra Dérozier.
 
 Plus sur les chaînes de caractères. Plus sur les listes. Numpy (calculs numériques).
+
+Pendant le confinement, vous avez déjà lu et appliqué :
+
+- chapitre 10 *Plus sur les chaînes de caractères* : ce chapitre est très important et doit être bien maitrisé ; les nombreuses méthodes qui y sont décrites sont très utiles lorsqu'on lit un fichier pour en extraire les informations d'intérêt ;
+- chapitre 11 *Plus sur les listes* : ce chapitre est également important, nombre des méthodes s'appliquant sur les listes sont utiles et font partie de la trousse à outil des pythonneurs.
+
+Pour cette séance 4 nous allons voir un nouvel outil très important en Biolinformatique : le module *NumPy*. Il permet notamment de faire du calcul numérique sur des vecteurs et des matrices à l'instar de ce que vous avez vu en R.
+
+Attention, du matériel supplémentaire a été ajouté par rapport à la version imprimée du poly, notamment pour le chapitre 17. Donc merci d'utiliser la version en ligne du cours (https://python.sdv.univ-paris-diderot.fr/) plutôt que votre poly (ou le livre si vous l'avez acquis).
+
+**Travail à faire de votre côté**
+
+Pour cette séance nous vous proposons les tâches suivantes à réaliser de votre côté (à votre rythme :wink:) :
+
+- Pour se remettre en jambe : relire le [chapitre 10 *Plus sur les chaînes de caractères*](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/).
+- Faire le nouvel exercice [10.7.12 Compteur de gènes dans un fichier GenBank](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/#10712-compteur-de-genes-dans-un-fichier-genbank).
+- Relire le [chapitre 11 *Plus sur les listes*](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/).
+- Faire les exercices [11.6.1 Tri liste](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/#1161-tri-de-liste), [11.6.2 Séquence d'ADN aléatoire](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/#1162-sequence-dadn-aleatoire), [11.6.4 Doublons](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/#1164-doublons), [11.6.6 Nombre mystère](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/#1166-le-nombre-mystere).
+- Lire le [chapitre 17.1 *NumPy*](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#171-module-numpy). Comme il y a pas mal de nouvelles notions, il peut être intéressant de le lire une première fois puis d'y revenir à tête reposée. Durant votre lecture, nous vous conseillons d'avoir un interpréteur ouvert pour pouvoir tester au fur et à mesure ce que vous lisez.
+- Faire les exercices [17.6.2 Jour le plus chaud](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#1762-jour-le-plus-chaud) et [17.6.3 Calcul du centre de masse d'une membrane](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#1763-calcul-du-centre-de-masse-dune-membrane).
+
+Afin de ne pas vous charger, chaque exercice n'est pas très long mais il est important de les réaliser avant que l'on aborde les deux séances suivantes. 
+
+Pour vous aider dans ces tâches :
+
+- Nous vous fournirons les solutions commentées des exercices un peu + tard (**date à définir**)]
+- Nous vous proposerons plusieurs plages (au moins 3) de conférences sur Zoom afin que vous nous posiez toutes les questions que vous voulez (**plages à définir**).
+- Bien sûr vous pourrez nous poser des questions sur Slack si vous êtes bloqué(e). Il peut être intéressant de le faire sur le canal promotion2020 afin que tout le monde puisse bénéficier de la réponse.
 
 ### Séance 5
 
