@@ -245,7 +245,7 @@ Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](h
 
 Initialement prévue le Mardi 24 mars : 9h30 - 12h30
 
-Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Pierre Poulain.
+Instructeurs : Patrick Fuchs et Sandra Dérozier.
 
 Plus sur les chaînes de caractères. Plus sur les listes. Numpy (calculs numériques).
 
@@ -256,11 +256,11 @@ Pendant le confinement, vous avez déjà lu et appliqué :
 
 Pour cette séance 4 nous allons voir un nouvel outil très important en Bioinformatique : le module *NumPy*. Il permet notamment de faire du calcul numérique sur des vecteurs et des matrices à l'instar de ce que vous avez vu en R.
 
-Attention, du matériel supplémentaire a été ajouté pour le chapitre 17.1 (*NumPy*) ainsi que l'exercice 10.7.12. Donc merci d'utiliser la version en ligne du cours (<https://python.sdv.univ-paris-diderot.fr/>) plutôt que votre poly (ou le livre si vous l'avez acquis) pour ces parties.
+Attention, du matériel supplémentaire a été ajouté par rapport à la version imprimée du poly, notamment pour le chapitre 17. Donc merci d'utiliser la version en ligne du cours (https://python.sdv.univ-paris-diderot.fr/) plutôt que votre poly (ou le livre si vous l'avez acquis).
 
 **Travail à faire de votre côté**
 
-Pour cette séance nous vous proposons les tâches suivantes à réaliser de votre côté (à votre rythme :wink:) :
+Pour cette séance nous vous proposons les tâches suivantes à réaliser de votre côté (à votre rythme) :
 
 - Pour se remettre en jambe : relire le [chapitre 10 *Plus sur les chaînes de caractères*](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/).
 - Faire le nouvel exercice [10.7.12 Compteur de gènes dans un fichier GenBank](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/#10712-compteur-de-genes-dans-un-fichier-genbank).
@@ -273,9 +273,9 @@ Afin de ne pas vous charger, chaque exercice n'est pas très long mais il est im
 
 Pour vous aider dans ces tâches :
 
-- Nous vous fournirons les solutions commentées des exercices un peu + tard (**date à définir**).
+- Nous vous fournirons les solutions commentées des exercices un peu + tard (**date à définir**)]
 - Nous vous proposerons plusieurs plages (au moins 3) de conférences sur Zoom afin que vous nous posiez toutes les questions que vous voulez (**plages à définir**).
-- Bien sûr vous pourrez nous poser des questions sur Slack si vous êtes bloqué(e). Il peut être intéressant de le faire sur le canal promotion2020 afin que tout le monde puisse bénéficier de la réponse.
+- Bien sûr vous pourrez nous poser des questions sur Slack si vous êtes bloqués. Il peut être intéressant de le faire sur le canal promotion2020 afin que tout le monde puisse bénéficier de la réponse.
 
 ### Séance 5
 
