@@ -256,7 +256,7 @@ Pendant le confinement, vous avez déjà lu et appliqué :
 
 Pour cette séance 4 nous allons voir un nouvel outil très important en Bioinformatique : le module *NumPy*. Il permet notamment de faire du calcul numérique sur des vecteurs et des matrices à l'instar de ce que vous avez vu en R.
 
-Attention, du matériel supplémentaire a été ajouté par rapport à la version imprimée du poly, notamment pour le chapitre 17. Donc merci d'utiliser la version en ligne du cours (https://python.sdv.univ-paris-diderot.fr/) plutôt que votre poly (ou le livre si vous l'avez acquis).
+Attention, du matériel supplémentaire a été ajouté par rapport à la version imprimée du poly, notamment pour le chapitre 17. Donc merci d'utiliser la version en ligne du cours (<https://python.sdv.univ-paris-diderot.fr/>) plutôt que votre poly (ou le livre si vous l'avez acquis).
 
 **Travail à faire de votre côté**
 
@@ -275,7 +275,7 @@ Pour vous aider dans ces tâches :
 
 - Nous vous fournirons les solutions commentées des exercices un peu + tard dans la semaine (n'hésitez pas à nous solliciter si cela tarde).
 - Nous vous proposerons (plusieurs si tout va bien) plage(s) de conférence sur Zoom afin que vous nous posiez toutes les questions que vous voulez.
-- Bien sûr vous pourrez nous poser des questions sur Slack si vous êtes bloqué(e). Il peut être intéressant de le faire sur le canal promotion2020 afin que tout le monde puisse bénéficier de la réponse.
+- Bien sûr vous pourrez nous poser des questions sur Slack si vous êtes bloqués. Il peut être intéressant de le faire sur le canal promotion2020 afin que tout le monde puisse bénéficier de la réponse.
 
 ### Séance 5
 
