@@ -273,8 +273,8 @@ Afin de ne pas vous charger, chaque exercice n'est pas très long mais il est im
 
 Pour vous aider dans ces tâches :
 
-- Nous vous fournirons les solutions commentées des exercices un peu + tard (**date à définir**).
-- Nous vous proposerons plusieurs plages (au moins 3) de conférences sur Zoom afin que vous nous posiez toutes les questions que vous voulez (**plages à définir**).
+- Nous vous fournirons les solutions commentées des exercices un peu + tard dans la semaine (n'hésitez pas à nous solliciter si cela tarde).
+- Nous vous proposerons (plusieurs si tout va bien) plage(s) de conférence sur Zoom afin que vous nous posiez toutes les questions que vous voulez.
 - Bien sûr vous pourrez nous poser des questions sur Slack si vous êtes bloqué(e). Il peut être intéressant de le faire sur le canal promotion2020 afin que tout le monde puisse bénéficier de la réponse.
 
 ### Séance 5
