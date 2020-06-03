@@ -297,9 +297,9 @@ Dans cette séance nous allons voir les dictionnaires et tuples, nouveaux types 
 
 **Travail à faire de votre côté**
 
-- Lire chapitre 13 Dicos + Tuples (sauter la partie sur les sets et les dictionnaires de compréhension, attention version en ligne légèrement différente du poly).
-- Faire exos [13.6.1 Composition en AA](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/#1361-composition-en-acides-amines), [13.6.2 compo en mots de 2 et 3 lettres](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/#1362-mots-de-2-et-3-lettres-dans-une-sequence-dadn) et [13.6.3 composition mots de 2 lettres S. Cerevisiae](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/#1363-mots-de-2-lettres-dans-la-sequence-du-chromosome-i-de-saccharomyces-cerevisiae).
-- Lire chapitre 17.4 Pandas.
+- Lire [chapitre 13 Dicos + Tuples](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/) (sauter la partie sur les sets et les dictionnaires de compréhension, attention version en ligne légèrement différente du poly).
+- Faire exos [13.6.1 Composition en AA](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/#1361-composition-en-acides-amines), [13.6.2 compo en mots de 2 et 3 lettres](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/#1362-mots-de-2-et-3-lettres-dans-une-sequence-dadn) et [13.6.3 composition mots de 2 lettres S. Cerevisiae](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/#1363-mots-de-2-lettres-dans-la-sequence-du-chromosome-i-de-saccharomyces-cerevisiae) (vous pouvez faire ces exercices sans créer de fonction comme cela est demandé dans l'énoncé).
+- Lire [chapitre 17.4 Pandas](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#174-module-pandas).
 - Faire exo [17.6.5 Analyse d'un jeu de données avec pandas](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#1765-analyse-dun-jeu-de-donnees-avec-pandas).
 
 Les solutions des exercices seront mises en ligne le jeudi 4 juin 2020. 
