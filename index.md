@@ -281,7 +281,7 @@ Pour vous aider dans ces tâches :
 *Ajout du 03/06/2020* : Suite à notre visio du 2 juin 2020 et les différentes demandes qui ont été faites, voici quelques ressources supplémentaires :
 
 - La correction de l'exercice 10.7.12 Compteur de gènes en [vidéo](https://youtu.be/TtRS7pR3ApE). Même si vous avez réussi l'exercice, cette vidéo peut être instructive pour tout le monde car elle montre la démarche d'élaboration du code. De plus, il s'agit d'un exercice typique de *parsing* auquel on est confronté en permanence en analyse de données.
-- Une `page de blog`donnant une explication claire (avec des schémas) de la notion d'`axis` en NumPy (inutile de lire la partie *NumPy concatenate*).
+- Une [page de blog](https://www.sharpsightlabs.com/blog/numpy-axes-explained/) donnant une explication claire (avec des schémas) de la notion d'`axis` en NumPy (inutile de lire la partie *NumPy concatenate*).
 - La [vidéo](https://www.youtube.com/watch?v=UHAlagIQIV4) de notre visio du 2 juin 2020 sur *NumPy* si vous souhaitez y revenir.
 
 ### Séance 5
