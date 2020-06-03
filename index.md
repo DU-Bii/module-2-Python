@@ -244,6 +244,7 @@ Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](h
 ### Séance 4
 
 Initialement prévue le Mardi 24 mars : 9h30 - 12h30
+Visio faite le 2 juin 2020 : 10h00 - 12h30
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier.
 
@@ -277,13 +278,33 @@ Pour vous aider dans ces tâches :
 - Nous vous proposerons (plusieurs si tout va bien) plage(s) de conférence sur Zoom afin que vous nous posiez toutes les questions que vous voulez.
 - Bien sûr vous pourrez nous poser des questions sur Slack si vous êtes bloqués. Il peut être intéressant de le faire sur le canal promotion2020 afin que tout le monde puisse bénéficier de la réponse.
 
+*Ajout du 03/06/2020* : Suite à notre visio du 2 juin 2020 et les différentes demandes qui ont été faites, voici quelques ressources supplémentaires :
+
+- La correction de l'exercice 10.7.12 Compteur de gènes en [vidéo](https://youtu.be/TtRS7pR3ApE). Même si vous avez réussi l'exercice, cette vidéo peut être instructive pour tout le monde car elle montre la démarche d'élaboration du code. De plus, il s'agit d'un exercice typique de *parsing* auquel on est confronté en permanence en analyse de données.
+- Une `page de blog`donnant une explication claire (avec des schémas) de la notion d'`axis` en NumPy (inutile de lire la partie *NumPy concatenate*).
+- La [vidéo](https://www.youtube.com/watch?v=UHAlagIQIV4) de notre visio du 2 juin 2020 sur *NumPy* si vous souhaitez y revenir.
+
 ### Séance 5
 
 Initialement prévue le Mardi 24 mars : 14h30 - 17h30
+Visio prévue le vendredi 5 juin 2020
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Pierre Poulain
 
 Dictionnaires/tuples, pandas (manipulation & analyse de données).
+
+Dans cette séance nous allons voir les dictionnaires et tuples, nouveaux types séquentiels qui sont importants comme les listes. Et nous allons introduire le module pandas permettant de créer des *dataframes* qui sont fondamentaux en analyse de données. A l'issue de cette séance vous aurez tous les éléments pour attaquer des cas concrets d'analyse de données en biologie que nous verrons lors de la dernière séance 6.
+
+**Travail à faire de votre côté**
+
+- Lire chapitre 13 Dicos + Tuples (sauter la partie sur les sets et les dictionnaires de compréhension, attention version en ligne légèrement différente du poly).
+- Faire exos [13.6.1 Composition en AA](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/#1361-composition-en-acides-amines), [13.6.2 compo en mots de 2 et 3 lettres](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/#1362-mots-de-2-et-3-lettres-dans-une-sequence-dadn) et [13.6.3 composition mots de 2 lettres S. Cerevisiae](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/#1363-mots-de-2-lettres-dans-la-sequence-du-chromosome-i-de-saccharomyces-cerevisiae).
+- Lire chapitre 17.4 Pandas.
+- Faire exo [17.6.5 Analyse d'un jeu de données avec pandas](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#1765-analyse-dun-jeu-de-donnees-avec-pandas).
+
+Les solutions des exercices seront mises en ligne le jeudi 4 juin 2020. 
+
+Souvenez-vous par ailleurs que vous aurez un QCM noté à faire après la séance du vendredi 5 juin 2020.
 
 ### Séance 6
 
