@@ -306,10 +306,14 @@ Les solutions des exercices seront mises en ligne le jeudi 4 juin 2020.
 
 Souvenez-vous par ailleurs que vous aurez un QCM noté à faire après la séance du vendredi 5 juin 2020.
 
-*Ajout du 09/0/6/2020* :
+*Ajout du 09/06/2020* :
 
 - La [vidéo](https://www.youtube.com/watch?v=_YOTDfST7z0) de notre visio du 5 juin 2020 sur NumPy si vous souhaitez y revenir.
 - Lien vers le [QCM](https://moodlesupd.script.univ-paris-diderot.fr/mod/quiz/view.php?id=247229) à faire avant le 18 juin 2020.
+
+*Ajout du 10/06/2020* : 
+
+- La [vidéo](https://youtu.be/IM7419iEpAA) de correction de l'exercice 13.6.3 comptage des mots de 2 lettres (avec des dictionnaires).
 
 ### Séance 6
 
