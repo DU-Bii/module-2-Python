@@ -246,7 +246,7 @@ Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](h
 Initialement prévue le Mardi 24 mars : 9h30 - 12h30
 Visio faite le 2 juin 2020 : 10h00 - 12h30
 
-Instructeurs : Patrick Fuchs et Sandra Dérozier.
+Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Pierre Poulain
 
 Plus sur les chaînes de caractères. Plus sur les listes. Numpy (calculs numériques).
 
@@ -286,7 +286,7 @@ Pour vous aider dans ces tâches :
 
 ### Séance 5
 
-Initialement prévue le Mardi 24 mars : 14h30 - 17h30
+Initialement prévue le Mardi 24 mars : 14h30 - 17h30  
 Visio prévue le vendredi 5 juin 2020
 
 Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Pierre Poulain
@@ -314,12 +314,15 @@ Souvenez-vous par ailleurs que vous aurez un QCM noté à faire après la séanc
 *Ajout du 10/06/2020* : 
 
 - La [vidéo](https://youtu.be/IM7419iEpAA) de correction de l'exercice 13.6.3 comptage des mots de 2 lettres (avec des dictionnaires).
+- La [vidéo](https://www.youtube.com/watch?v=m-4_K_GghuQ) de correction de l'exercice 17.6.5 Analyse d'un jeu de données avec pandas.
+
 
 ### Séance 6
 
-Initialement prévue le Jeudi 26 mars : 9h - 12h
+Initialement prévue le Jeudi 26 mars : 9h - 12h  
+Visio prévue le jeudi 11 juin 2020
 
-Instructeurs : Pierre Poulain, Sandra Dérozier & Patrick Fuchs ; helper : Hubert Santuz
+Instructeurs : Pierre Poulain, Sandra Dérozier & Patrick Fuchs
 
 Cas d’applications.
 
