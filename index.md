@@ -241,12 +241,14 @@ Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](h
 
 *Ajout du 25/05/2020* : voici une correction possible dans un [notebook jupyter](https://github.com/DU-Bii/module-2-Python/blob/master/data/chaos_game_sars_cov2.ipynb), c'est [ici](data/chaos_game_sars_cov2.ipynb) pour le télécharger.
 
+
 ### Séance 4
 
-Initialement prévue le Mardi 24 mars : 9h30 - 12h30
+Initialement prévue le Mardi 24 mars : 9h30 - 12h30  
 Visio faite le 2 juin 2020 : 10h00 - 12h30
 
-Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Pierre Poulain
+Instructeurs : Patrick Fuchs et Sandra Dérozier  
+Helper : Pierre Poulain
 
 Plus sur les chaînes de caractères. Plus sur les listes. Numpy (calculs numériques).
 
@@ -284,12 +286,14 @@ Pour vous aider dans ces tâches :
 - Une [page de blog](https://www.sharpsightlabs.com/blog/numpy-axes-explained/) donnant une explication claire (avec des schémas) de la notion d'`axis` en NumPy (inutile de lire la partie *NumPy concatenate*).
 - La [vidéo](https://www.youtube.com/watch?v=UHAlagIQIV4) de notre visio du 2 juin 2020 sur *NumPy* si vous souhaitez y revenir.
 
+
 ### Séance 5
 
 Initialement prévue le Mardi 24 mars : 14h30 - 17h30  
 Visio prévue le vendredi 5 juin 2020
 
-Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Pierre Poulain
+Instructeurs : Patrick Fuchs et Sandra Dérozier  
+Helper : Pierre Poulain
 
 Dictionnaires/tuples, pandas (manipulation & analyse de données).
 
