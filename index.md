@@ -330,9 +330,14 @@ Instructeurs : Pierre Poulain, Sandra Dérozier & Patrick Fuchs
 
 Cas d’applications.
 
+**Ressources :**
+
+* exemples d'utilisation de Python pour l'analyse de données omiques : <https://github.com/pierrepo/python-omics-use-cases>
+* exemples d'utilisation de Python en bioinformatique : <https://github.com/sderozier/python-notebooks-use-cases>
+
 ## Accès
 
-- Github: <https://github.com/DU-Bii/module-2-Python>
+- Github : <https://github.com/DU-Bii/module-2-Python>
 
 ## License
 
