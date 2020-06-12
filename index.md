@@ -343,9 +343,9 @@ Le **QCM** est disponible sur Moodle à l'URL suivante : <https://moodlesupd.scr
 
 ## Mini projet
 
-Le **notebook Jupyter** et les données pour le mini projet sont disponibles dans le dépôt GitHub suivant : <https://github.com/sderozier/python-notebooks-use-cases>.
+Le **notebook Jupyter** et les données pour le mini projet sont disponibles dans le dépôt GitHub suivant : <https://github.com/sderozier/python-mini-projet>.
 
-La démarche à suivre pour récupérer les données du dépôt est décrite dans le fichier [README.md](https://github.com/sderozier/python-notebooks-use-cases/blob/master/README.md).
+La démarche à suivre pour récupérer les données du dépôt est décrite dans le fichier [README.md](https://github.com/sderozier/python-mini-projet/blob/master/README.md).
 
 **Deadline pour le rendu du mini projet sous Moodle : 8 juillet 2020 20h.**
 
