@@ -335,6 +335,20 @@ Cas d’applications.
 * exemples d'utilisation de Python pour l'analyse de données omiques : <https://github.com/pierrepo/python-omics-use-cases>
 * exemples d'utilisation de Python en bioinformatique : <https://github.com/sderozier/python-notebooks-use-cases>
 
+## QCM
+
+Le **QCM** est disponible sur Moodle à l'URL suivante : <https://moodlesupd.script.univ-paris-diderot.fr/mod/quiz/view.php?id=247229>.
+
+**Deadline pour le QCM : 19 juin 2020 18h.**
+
+## Mini projet
+
+Le **notebook Jupyter** et les données pour le mini projet sont disponibles dans le dépôt GitHub suivant : <https://github.com/sderozier/python-notebooks-use-cases>.
+
+La démarche à suivre pour récupérer les données du dépôt est décrite dans le fichier [README.md](https://github.com/sderozier/python-notebooks-use-cases/blob/master/README.md).
+
+**Deadline pour le rendu du mini projet sous Moodle : 8 juillet 2020 20h.**
+
 ## Accès
 
 - Github : <https://github.com/DU-Bii/module-2-Python>
