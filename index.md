@@ -328,12 +328,15 @@ Visio prévue le jeudi 11 juin 2020
 
 Instructeurs : Pierre Poulain, Sandra Dérozier & Patrick Fuchs
 
-Cas d’applications.
+Cas d’applications à l'analyse et la visualisation de données omiques.
 
 **Ressources :**
 
-* exemples d'utilisation de Python pour l'analyse de données omiques : <https://github.com/pierrepo/python-omics-use-cases>
-* exemples d'utilisation de Python en bioinformatique : <https://github.com/sderozier/python-notebooks-use-cases>
+- La [vidéo](https://www.youtube.com/watch?v=7EOLJHAndXE) de notre vision du 11 juin 2020.
+- Des exemples d'utilisation de Python pour l'analyse de données omiques : <https://github.com/pierrepo/python-omics-use-cases>
+* D'autres exemples d'utilisation de Python en bioinformatique : <https://github.com/sderozier/python-notebooks-use-cases>
+
+
 
 ## QCM
 
@@ -348,6 +351,7 @@ Le **notebook Jupyter** et les données pour le mini projet sont disponibles dan
 La démarche à suivre pour récupérer les données du dépôt est décrite dans le fichier [README.md](https://github.com/sderozier/python-mini-projet/blob/master/README.md).
 
 **Deadline pour le rendu du mini projet sous Moodle : 8 juillet 2020 20h.**
+
 
 ## Accès
 
