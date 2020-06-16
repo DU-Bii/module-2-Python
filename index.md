@@ -342,7 +342,7 @@ Cas d’applications à l'analyse et la visualisation de données omiques.
 
 Le **QCM** est disponible sur Moodle à l'URL suivante : <https://moodlesupd.script.univ-paris-diderot.fr/mod/quiz/view.php?id=247229>.
 
-**Deadline pour le QCM : 19 juin 2020 18h.**
+**Deadline pour le QCM : 26 juin 2020 20h.**
 
 
 ## Mini projet
