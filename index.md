@@ -334,8 +334,8 @@ Cas d’applications à l'analyse et la visualisation de données omiques.
 
 - La [vidéo](https://www.youtube.com/watch?v=7EOLJHAndXE) de notre vision du 11 juin 2020.
 - Des exemples d'utilisation de Python pour l'analyse de données omiques : <https://github.com/pierrepo/python-omics-use-cases>
-* D'autres exemples d'utilisation de Python en bioinformatique : <https://github.com/sderozier/python-notebooks-use-cases>
-
+- D'autres exemples d'utilisation de Python en bioinformatique : <https://github.com/sderozier/python-notebooks-use-cases>
+- Un exemple de visualisation d'arbre phylogénétique : <https://github.com/sderozier/python-notebook-tree/> (**remarque :** ce *notebook* n'est pas accessible aux utilisateurs de PowerShell)
 
 
 ## QCM
@@ -344,11 +344,14 @@ Le **QCM** est disponible sur Moodle à l'URL suivante : <https://moodlesupd.scr
 
 **Deadline pour le QCM : 19 juin 2020 18h.**
 
+
 ## Mini projet
 
 Le **notebook Jupyter** et les données pour le mini projet sont disponibles dans le dépôt GitHub suivant : <https://github.com/sderozier/python-mini-projet>.
 
 La démarche à suivre pour récupérer les données du dépôt est décrite dans le fichier [README.md](https://github.com/sderozier/python-mini-projet/blob/master/README.md).
+
+Voici l'emplacement du dépôt pour vos projets sous Moodle : <https://moodlesupd.script.univ-paris-diderot.fr/mod/assign/view.php?id=247826>.
 
 **Deadline pour le rendu du mini projet sous Moodle : 8 juillet 2020 20h.**
 
