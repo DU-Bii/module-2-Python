@@ -71,7 +71,11 @@ Les corrections des exercices se trouvent sur [Moodle](https://moodlesupd.script
 Instructeurs : Sandra Dérozier & Pierre Poulain  
 Helpers : Hubert Santuz
 
-Programme : boucles, tests, fichiers.
+Programme : 
+
+- Boucles et comparaisons
+- Tests
+- Fichiers
 
 <!--
 
