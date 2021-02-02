@@ -63,15 +63,20 @@ En outre, vous apprendrez également à utiliser des modules incontournables en 
 
 Les enseignements seront donnés sous forme de cours / TP, quelques minutes de théorie en *live coding* seront suivies d'une mise en pratique immédiate. 
 
-A titre indicatif, nous détaillons dans la suite le découpage des différentes séances. Ce découpage est succeptible de changer en fonction du degré d'avancement de l'ensemble des stagiaires. N'hésitez pas à revenir régulièrement sur cette page pendant la formation.
+À titre indicatif, nous détaillons dans la suite le découpage des différentes séances. Ce découpage est succeptible de changer en fonction du degré d'avancement de l'ensemble des stagiaires. N'hésitez pas à revenir régulièrement sur cette page pendant la formation.
+
+Les corrections des exercices se trouvent sur la [page Moodle du cours](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
 
 ### Séance 1
 
-Mardi 3 mars : 9h30 - 12h30
+Mardi 2 mars : 9h30 - 12h30
 
-Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Hubert Santuz
+Instructeurs : Sandra Dérozier & Pierre Poulain  
+Helpers : Hubert Santuz
 
-Révisions des bases travaillées en autonomie (variables, listes, boucles, comparaisons, tests).
+Programme : révisions des notions travaillées en autonomie : variables, affichage, listes, boucles et comparaisons.
+
+<!--
 
 **Corrections des exercices**
 
@@ -88,25 +93,18 @@ Les corrections des exercices se trouvent sur [Moodle](https://moodlesupd.script
 * faire les exercices sur l'**écriture formatée** ([3.5.1 à 3.5.5](https://python.sdv.univ-paris-diderot.fr/03_affichage/#35-exercices))
 * faire les exercices sur les **boucles** ([5.4.1 à 5.4.9](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/#54-exercices))
 
+-->
+
 ### Séance 2
 
-Mercredi 4 mars : 14h30 - 17h30
+Mercredi 3 mars : 14h30 - 17h30
 
-Instructeurs : Patrick Fuchs et Sandra Dérozier ; helper : Hubert Santuz
+Instructeurs : Sandra Dérozier & Pierre Poulain  
+Helpers : Hubert Santuz
 
-Consolidation des bases (boucles, tests), fichiers, modules.
+Programme : boucles, tests, fichiers.
 
-**Session de cours**
-
-Voici la [session de cours sur les boucles et tests](data/session_python_2020-03-04_apm_readable.txt).
-
-**Corrections des exercices**
-
-Les corrections des exercices se trouvent sur [Moodle](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
-
-**Arithmétique des floats**
-
-Si vous souhaitez comprendre pourquoi [l'arithmétique des floats est limitée à une certaine précision](https://docs.python.org/3/tutorial/floatingpoint.html).
+<!--
 
 **Un peu de travail pour la prochaine séance**
 
@@ -116,22 +114,22 @@ Si vous souhaitez comprendre pourquoi [l'arithmétique des floats est limitée �
 * faire un exercice sur les **tests** ([6.7.9 méthode 1](https://python.sdv.univ-paris-diderot.fr/06_tests/#methode-1-peu-optimale-mais-assez-intuitive))
 * faire les exercices sur les **fichiers** ([7.7.1](https://python.sdv.univ-paris-diderot.fr/07_fichiers/#771-moyenne-des-notes), [7.7.2](https://python.sdv.univ-paris-diderot.fr/07_fichiers/#772-admis-ou-recale) et [7.7.3](https://python.sdv.univ-paris-diderot.fr/07_fichiers/#773-spirale-exercice))
 
+-->
+
 ### Séance 3
 
-Jeudi 12 mars : 13h30 - 16h30
+Jeudi 11 mars : 13h30 - 16h30
 
-Instructeurs : Pierre Poulain et Patrick Fuchs ; helper : Hubert Santuz
+Instructeurs : Sandra Dérozier & Pierre Poulain  
+Helpers : Hubert Santuz
 
-Fichiers, Modules, [Jupyter & Matplotlib](https://cupnet.net/intro-jupyter-dubii/).
+Programme :
 
-**Corrections exercices**
+- [notebook Jupyter](https://cupnet.net/intro-jupyter-dubii/)
+- Modules
+- Matplotlib
 
-- [pyramide avec opérateur de formatage](data/pyramides.py) ou [pyramide en calculant le nombre d'espaces et d'étoiles](data/pyramides2.py)
-- [parcours de matrice](data/parcours_matrice.py)
-
-**Session de cours**
-
-Voici la [session de cours sur les fichiers et les modules](data/session_python_2020-03-12_apm_readable.txt).
+<!--
 
 **Un peu de travail pour la prochaine séance**
 
@@ -239,25 +237,22 @@ Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](h
 
 *Ajout du 25/05/2020* : voici une correction possible dans un [notebook jupyter](https://github.com/DU-Bii/module-2-Python/blob/master/data/chaos_game_sars_cov2.ipynb), c'est [ici](data/chaos_game_sars_cov2.ipynb) pour le télécharger.
 
+-->
 
 ### Séance 4
 
-Initialement prévue le Mardi 24 mars : 9h30 - 12h30  
-Visio faite le 2 juin 2020 : 10h00 - 12h30
+Jeudi 23 mars : 9h30 - 12h30
 
-Instructeurs : Patrick Fuchs et Sandra Dérozier  
-Helper : Pierre Poulain
+Instructeurs : Sandra Dérozier & Pierre Poulain  
+Helpers : Hubert Santuz
 
-Plus sur les chaînes de caractères. Plus sur les listes. Numpy (calculs numériques).
+Programme :
 
-Pendant le confinement, vous avez déjà lu et appliqué :
+- Plus sur les chaînes de caractères.
+- Plus sur les listes.
+- Numpy (calcul vectoriel).
 
-- chapitre 10 *Plus sur les chaînes de caractères* : ce chapitre est très important et doit être bien maitrisé ; les nombreuses méthodes qui y sont décrites sont très utiles lorsqu'on lit un fichier pour en extraire les informations d'intérêt ;
-- chapitre 11 *Plus sur les listes* : ce chapitre est également important, nombre des méthodes s'appliquant sur les listes sont utiles et font partie de la trousse à outil des pythonneurs.
-
-Pour cette séance 4 nous allons voir un nouvel outil très important en Bioinformatique : le module *NumPy*. Il permet notamment de faire du calcul numérique sur des vecteurs et des matrices à l'instar de ce que vous avez vu en R.
-
-Attention, du matériel supplémentaire a été ajouté par rapport à la version imprimée du poly, notamment pour le chapitre 17. Donc merci d'utiliser la version en ligne du cours (<https://python.sdv.univ-paris-diderot.fr/>) plutôt que votre poly (ou le livre si vous l'avez acquis).
+<!--
 
 **Travail à faire de votre côté**
 
@@ -284,19 +279,21 @@ Pour vous aider dans ces tâches :
 - Une [page de blog](https://www.sharpsightlabs.com/blog/numpy-axes-explained/) donnant une explication claire (avec des schémas) de la notion d'`axis` en NumPy (inutile de lire la partie *NumPy concatenate*).
 - La [vidéo](https://www.youtube.com/watch?v=UHAlagIQIV4) de notre visio du 2 juin 2020 sur *NumPy* si vous souhaitez y revenir.
 
+-->
 
 ### Séance 5
 
-Initialement prévue le Mardi 24 mars : 14h30 - 17h30  
-Visio prévue le vendredi 5 juin 2020
+Jeudi 23 mars : 14h00 - 17h00
 
-Instructeurs : Patrick Fuchs et Sandra Dérozier  
-Helper : Pierre Poulain
+Instructeurs : Sandra Dérozier & Pierre Poulain  
+Helpers : Hubert Santuz
 
-Dictionnaires/tuples, pandas (manipulation & analyse de données).
+Programme :
 
-Dans cette séance nous allons voir les dictionnaires et tuples, nouveaux types séquentiels qui sont importants comme les listes. Et nous allons introduire le module pandas permettant de créer des *dataframes* qui sont fondamentaux en analyse de données. A l'issue de cette séance vous aurez tous les éléments pour attaquer des cas concrets d'analyse de données en biologie que nous verrons lors de la dernière séance 6.
+- Dictionnaires, tuples et sets.
+- Pandas.
 
+<!--
 **Travail à faire de votre côté**
 
 - Lire [chapitre 13 Dicos + Tuples](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/) (sauter la partie sur les sets et les dictionnaires de compréhension, attention version en ligne légèrement différente du poly).
@@ -318,16 +315,20 @@ Souvenez-vous par ailleurs que vous aurez un QCM noté à faire après la séanc
 - La [vidéo](https://youtu.be/IM7419iEpAA) de correction de l'exercice 13.6.3 comptage des mots de 2 lettres (avec des dictionnaires).
 - La [vidéo](https://www.youtube.com/watch?v=m-4_K_GghuQ) de correction de l'exercice 17.6.5 Analyse d'un jeu de données avec pandas.
 
+-->
 
 ### Séance 6
 
-Initialement prévue le Jeudi 26 mars : 9h - 12h  
-Visio prévue le jeudi 11 juin 2020
+Jeudi 25 mars : 9h00 - 12h00
 
-Instructeurs : Pierre Poulain, Sandra Dérozier & Patrick Fuchs
+Instructeurs : Sandra Dérozier & Pierre Poulain  
+Helpers : Hubert Santuz
 
-Cas d’applications à l'analyse et la visualisation de données omiques.
+Programme :
 
+- Cas d’applications à l'analyse et la visualisation de données omiques.
+
+<!--
 **Ressources :**
 
 - La [vidéo](https://www.youtube.com/watch?v=7EOLJHAndXE) de notre vision du 11 juin 2020.
@@ -335,13 +336,25 @@ Cas d’applications à l'analyse et la visualisation de données omiques.
 - D'autres exemples d'utilisation de Python en bioinformatique : <https://github.com/sderozier/python-notebooks-use-cases>
 - Un exemple de visualisation d'arbre phylogénétique : <https://github.com/sderozier/python-notebook-tree/> (**remarque :** ce *notebook* n'est pas accessible aux utilisateurs de PowerShell)
 
+-->
 
-## QCM
+## Évaluations
 
-Le **QCM** est disponible sur Moodle à l'URL suivante : <https://moodlesupd.script.univ-paris-diderot.fr/mod/quiz/view.php?id=247229>.
+Pour le vendredi 19 mars 18h00 :
 
-**Deadline pour le QCM : 26 juin 2020 20h.**
+- Produire un notebook avec une analyse et une visualisation de données.
+- À rendre sur Moodle
 
+Pour le vendredi 26 mars 18h00 :
+
+- QCM sur Moodle
+
+Pour le vendredi 7 mai 18h00
+
+- Mini-projet à rendre sur Moodle
+
+
+<!--
 
 ## Mini projet
 
@@ -351,12 +364,7 @@ La démarche à suivre pour récupérer les données du dépôt est décrite dan
 
 Voici l'emplacement du dépôt pour vos projets sous Moodle : <https://moodlesupd.script.univ-paris-diderot.fr/mod/assign/view.php?id=247826>.
 
-**Deadline pour le rendu du mini projet sous Moodle : 8 juillet 2020 20h.**
-
-
-## Accès
-
-- Github : <https://github.com/DU-Bii/module-2-Python>
+-->
 
 ## License
 
