@@ -1,47 +1,19 @@
 Bienvenue au cours de Python du DU Bii. Vous trouverez sur ce dépôt toutes les informations et ressources nécessaires.
 
-=======
+---
 ## Intervenants
 
-1. Patrick Fuchs, Université de Paris, `<patrick.fuchs@u-paris.fr>` (co-responsable)
-2. Sandra Dérozier, INRAE, `<sandra.derozier@inra.fr>` (co-responsable)
-3. Pierre Poulain, Université de Paris, `<pierre.poulain@u-paris.fr>`
-4. Hubert Santuz, CNRS, `<hubert.santuz@gmail.com>`
+1. Sandra Dérozier, INRAE, `<sandra.derozier@inrae.fr>` (co-responsable)
+2. Pierre Poulain, Université de Paris, `<pierre.poulain@u-paris.fr>` (co-responsable)
+3. Hubert Santuz, CNRS, `<hubert.santuz@gmail.com>`
+4. Magali Hennion, CNRS, `<hennion@bio.ens.psl.eu>`
+5. Benoist Laurent, IBPC, `<benoist@ibpc.fr>`
+6. Julie Lao, INRAE, `<julie.lao@inrae.fr>` 
 
 
-## Prérequis
+## Activités préparatoires
 
-Dans un premier temps, nous vous suggérons d'apprendre les bases de Python sur le site de DataCamp.
-
-Cours [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science) sur DataCamp.
-
-Chapitres à traiter :
-
-* Python Basics
-* Python Lists
-* Functions and Packages
-
-Temps estimé : 4 heures.
-
-Ensuite, nous vous demandons de travailler [notre ressource Python en ligne](https://python.sdv.univ-paris-diderot.fr/), en particulier les deux chapitres suivants :
-
-[Boucles et comparaisons](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/) et les exercices
-
-* 5.4.2. Boucle et jours de la semaine
-* 5.4.4. Nombres pairs et impairs
-* 5.4.5. Calcul de la moyenne
-
-[Tests](https://python.sdv.univ-paris-diderot.fr/06_tests/) et les exercices
-
-* 6.7.1. Jours de la semaine
-* 6.7.2. Séquence complémentaire d'un brin d'ADN
-* 6.7.4. Fréquence des acides aminés
-
-Temps estimé : 1 heure.
-
-Pour la partie sur les boucles et les tests, nous vous conseillons d'utiliser le site [pythontutor](http://pythontutor.com/) qui permet de "pythonner" en ligne sans avoir à installer Python sur votre machine.
-
-Lors du premier cours, nous vous fournirons un polycopié complet du cours. Inutile donc de l'imprimer de votre côté.
+Un certain nombre de prérequis sont à préparer avant le premier cours. Ils sont indiqués sur la [page dédiée](https://du-bii.github.io/accueil/activites_preparatoires/).
 
 ## Synopsis
 
@@ -65,7 +37,8 @@ Les enseignements seront donnés sous forme de cours / TP, quelques minutes de t
 
 À titre indicatif, nous détaillons dans la suite le découpage des différentes séances. Ce découpage est succeptible de changer en fonction du degré d'avancement de l'ensemble des stagiaires. N'hésitez pas à revenir régulièrement sur cette page pendant la formation.
 
-Les corrections des exercices se trouvent sur la [page Moodle du cours](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
+Le cours est intégralement disponible [en ligne](https://python.sdv.univ-paris-diderot.fr/). Les corrections des exercices se trouvent sur la [page Moodle du cours](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
+
 
 ### Séance 1 -- mardi 2 mars : 9h30 - 12h30
 
