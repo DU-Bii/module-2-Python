@@ -67,9 +67,7 @@ Les enseignements seront donnés sous forme de cours / TP, quelques minutes de t
 
 Les corrections des exercices se trouvent sur la [page Moodle du cours](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
 
-### Séance 1
-
-Mardi 2 mars : 9h30 - 12h30
+### Séance 1 -- mardi 2 mars : 9h30 - 12h30
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
 Helpers : Hubert Santuz
@@ -95,9 +93,7 @@ Les corrections des exercices se trouvent sur [Moodle](https://moodlesupd.script
 
 -->
 
-### Séance 2
-
-Mercredi 3 mars : 14h30 - 17h30
+### Séance 2 -- mercredi 3 mars : 14h30 - 17h30
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
 Helpers : Hubert Santuz
@@ -116,9 +112,7 @@ Programme : boucles, tests, fichiers.
 
 -->
 
-### Séance 3
-
-Jeudi 11 mars : 13h30 - 16h30
+### Séance 3 -- jeudi 11 mars : 13h30 - 16h30
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
 Helpers : Hubert Santuz
@@ -239,9 +233,7 @@ Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](h
 
 -->
 
-### Séance 4
-
-Jeudi 23 mars : 9h30 - 12h30
+### Séance 4 -- jeudi 23 mars : 9h30 - 12h30
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
 Helpers : Hubert Santuz
@@ -281,9 +273,7 @@ Pour vous aider dans ces tâches :
 
 -->
 
-### Séance 5
-
-Jeudi 23 mars : 14h00 - 17h00
+### Séance 5 -- jeudi 23 mars : 14h00 - 17h00
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
 Helpers : Hubert Santuz
@@ -317,9 +307,7 @@ Souvenez-vous par ailleurs que vous aurez un QCM noté à faire après la séanc
 
 -->
 
-### Séance 6
-
-Jeudi 25 mars : 9h00 - 12h00
+### Séance 6 -- jeudi 25 mars : 9h00 - 12h00
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
 Helpers : Hubert Santuz
