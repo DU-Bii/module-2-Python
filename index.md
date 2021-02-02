@@ -43,7 +43,7 @@ Le cours est intégralement disponible [en ligne](https://python.sdv.univ-paris-
 ### Séance 1 -- mardi 2 mars : 9h30 - 12h30
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
-Helpers : Hubert Santuz
+Helpers : Hubert Santuz, Magali Hennion, Benoist Laurent & Julie Lao
 
 Programme : révisions des notions travaillées en autonomie. 
 [Variables](https://python.sdv.univ-paris-diderot.fr/02_variables/), 
@@ -73,7 +73,7 @@ Les corrections des exercices se trouvent sur [Moodle](https://moodlesupd.script
 ### Séance 2 -- mercredi 3 mars : 14h30 - 17h30
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
-Helpers : Hubert Santuz
+Helpers : Hubert Santuz, Magali Hennion, Benoist Laurent & Julie Lao
 
 Programme : 
 [boucles et comparaisons](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/), 
@@ -95,7 +95,7 @@ Programme :
 ### Séance 3 -- jeudi 11 mars : 13h30 - 16h30
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
-Helpers : Hubert Santuz
+Helpers : Hubert Santuz, Magali Hennion, Benoist Laurent & Julie Lao
 
 Programme :
 [notebook Jupyter](https://python.sdv.univ-paris-diderot.fr/18_jupyter/) (et [aussi](https://cupnet.net/intro-jupyter-dubii/)), 
@@ -215,7 +215,7 @@ Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](h
 ### Séance 4 -- jeudi 23 mars : 9h30 - 12h30
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
-Helpers : Hubert Santuz
+Helpers : Hubert Santuz, Magali Hennion, Benoist Laurent & Julie Lao
 
 Programme : 
 [plus sur les chaînes de caractères](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/), 
@@ -254,7 +254,7 @@ Pour vous aider dans ces tâches :
 ### Séance 5 -- jeudi 23 mars : 14h00 - 17h00
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
-Helpers : Hubert Santuz
+Helpers : Hubert Santuz, Magali Hennion & Julie Lao
 
 Programme : 
 [dictionnaires, tuples et sets](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/), 
@@ -287,7 +287,7 @@ Souvenez-vous par ailleurs que vous aurez un QCM noté à faire après la séanc
 ### Séance 6 -- jeudi 25 mars : 9h00 - 12h00
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
-Helpers : Hubert Santuz
+Helpers : Hubert Santuz, Magali Hennion, Benoist Laurent & Julie Lao
 
 Programme : cas d’applications à l'analyse et la visualisation de données omiques.
 
