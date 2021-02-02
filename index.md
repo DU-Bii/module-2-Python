@@ -49,17 +49,15 @@ Dans ce cours, nous allons voir les bases du langage Python. Au-delà de l'appre
 
 L'apprentissage de la programmation est un processus nécessitant un certain investissement. Ainsi, nous vous conseillons de faire un maximum d'exercices sur une base régulière afin d'acquérir certains automatismes. 
 
-A la fin du cours, vous devriez être capable d'écrire des scripts de base permettant de :
+À la fin du cours, vous devriez être capable d'écrire des scripts et des *notebooks* Jupyter pour :
 
-- lire des fichiers contenant des données biologiques et rechercher des contenus spécifiques dans ces fichiers ;
-- changer le format d'un fichier en un autre ;
-- faire des calculs de base sur les données extraites des fichiers ;
-- réaliser une suite de tâches plus ou moins complexes ;
-- avoir les bases pour continuer à vous former par vous même après la fin du DU.
+- Lire des fichiers contenant des données biologiques et rechercher des contenus spécifiques dans ces fichiers.
+- Changer le format des données d'un fichier en un autre.
+- Faire des calculs de base sur les données extraites des fichiers.
+- Réaliser une suite de tâches plus ou moins complexes.
+- Avoir les bases pour continuer à vous former par vous même après la fin du DU.
 
-En outre, vous apprendrez à :
-- utiliser des modules incontournables en analyse de données (pandas, numpy, matplolib) ;
-- utiliser et concevoir des *notebooks* Jupyter.
+En outre, vous apprendrez également à utiliser des modules incontournables en analyse de données (pandas, numpy, matplolib) en bioinformatique.
 
 ## Organisation des cours
 
