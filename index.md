@@ -45,7 +45,11 @@ Le cours est intégralement disponible [en ligne](https://python.sdv.univ-paris-
 Instructeurs : Sandra Dérozier & Pierre Poulain  
 Helpers : Hubert Santuz
 
-Programme : révisions des notions travaillées en autonomie : variables, affichage, listes, boucles et comparaisons.
+Programme : révisions des notions travaillées en autonomie. 
+[Variables](https://python.sdv.univ-paris-diderot.fr/02_variables/), 
+[affichage](https://python.sdv.univ-paris-diderot.fr/03_affichage/), 
+[listes](https://python.sdv.univ-paris-diderot.fr/04_listes/), 
+[boucles et comparaisons](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/).
 
 <!--
 
@@ -72,10 +76,9 @@ Instructeurs : Sandra Dérozier & Pierre Poulain
 Helpers : Hubert Santuz
 
 Programme : 
-
-- Boucles et comparaisons
-- Tests
-- Fichiers
+[boucles et comparaisons](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/), 
+[tests](https://python.sdv.univ-paris-diderot.fr/06_tests/), 
+[fichiers](https://python.sdv.univ-paris-diderot.fr/07_fichiers/).
 
 <!--
 
@@ -95,10 +98,9 @@ Instructeurs : Sandra Dérozier & Pierre Poulain
 Helpers : Hubert Santuz
 
 Programme :
-
-- [notebook Jupyter](https://cupnet.net/intro-jupyter-dubii/)
-- Modules
-- Matplotlib
+[notebook Jupyter](https://python.sdv.univ-paris-diderot.fr/18_jupyter/) (et [aussi](https://cupnet.net/intro-jupyter-dubii/)), 
+[modules](https://python.sdv.univ-paris-diderot.fr/08_modules/), 
+[matplotlib](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#173-module-matplotlib).
 
 <!--
 
@@ -215,11 +217,10 @@ Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](h
 Instructeurs : Sandra Dérozier & Pierre Poulain  
 Helpers : Hubert Santuz
 
-Programme :
-
-- Plus sur les chaînes de caractères.
-- Plus sur les listes.
-- Numpy (calcul vectoriel).
+Programme : 
+[plus sur les chaînes de caractères](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/), 
+[plus sur les listes](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/), 
+[Numpy](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#171-module-numpy).
 
 <!--
 
@@ -255,10 +256,9 @@ Pour vous aider dans ces tâches :
 Instructeurs : Sandra Dérozier & Pierre Poulain  
 Helpers : Hubert Santuz
 
-Programme :
-
-- Dictionnaires, tuples et sets.
-- Pandas.
+Programme : 
+[dictionnaires, tuples et sets](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/), 
+[Pandas](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#174-module-pandas).
 
 <!--
 **Travail à faire de votre côté**
@@ -289,9 +289,7 @@ Souvenez-vous par ailleurs que vous aurez un QCM noté à faire après la séanc
 Instructeurs : Sandra Dérozier & Pierre Poulain  
 Helpers : Hubert Santuz
 
-Programme :
-
-- Cas d’applications à l'analyse et la visualisation de données omiques.
+Programme : cas d’applications à l'analyse et la visualisation de données omiques.
 
 <!--
 **Ressources :**
