@@ -214,8 +214,8 @@ Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](h
 
 ### Séance 4 -- jeudi 23 mars : 9h30 - 12h30
 
-Instructeurs : Sandra Dérozier & Pierre Poulain  
-Helpers : Hubert Santuz, Magali Hennion, Benoist Laurent & Julie Lao
+Instructeurs : Sandra Dérozier & Hubert Santuz  
+Helpers : Pierre Poulain, Magali Hennion, Benoist Laurent & Julie Lao
 
 Programme : 
 [plus sur les chaînes de caractères](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/), 
