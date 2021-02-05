@@ -5,7 +5,7 @@ Bienvenue au cours de Python du DU Bii. Vous trouverez sur ce dépôt toutes les
 
 1. Sandra Dérozier, INRAE, `<sandra.derozier@inrae.fr>` (co-responsable)
 2. Pierre Poulain, Université de Paris, `<pierre.poulain@u-paris.fr>` (co-responsable)
-3. Hubert Santuz, CNRS, `<hubert.santuz@gmail.com>`
+3. Hubert Santuz, CNRS, `<hubert.santuz@ibpc.fr>`
 4. Magali Hennion, CNRS, `<hennion@bio.ens.psl.eu>`
 5. Benoist Laurent, IBPC, `<benoist@ibpc.fr>`
 6. Julie Lao, INRAE, `<julie.lao@inrae.fr>` 
