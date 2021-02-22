@@ -1,4 +1,4 @@
-name: module-2-Python
+name: dubii-python
 # channels priority
 # see https://bioconda.github.io/
 # conda-forge has highest prioriy
@@ -7,19 +7,21 @@ channels:
     - bioconda
     - conda-forge
 dependencies:
+    - jupyterlab
+    - ipywidgets
     - numpy
     - scipy
     - pandas
+    - pandas-profiling
     - xlrd
     - matplotlib
+    - seaborn
     - bokeh
-    - jupyterlab
-    - ipywidgets
+    - plotly
+    - biopython
     - scikit-learn
     - scikit-bio
     - nodejs
-    - biopython
-    - seaborn
     - pip
     - pip:
         - watermark

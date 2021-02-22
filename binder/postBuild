@@ -3,6 +3,9 @@ jupyter labextension install @jupyter-widgets/jupyterlab-manager
 # Bokeh
 jupyter labextension install @bokeh/jupyter_bokeh
 
+# Plotly
+jupyter labextension install jupyterlab-plotly@4.14.3
+
 # Table of Contents
 # https://github.com/jupyterlab/jupyterlab-toc
 jupyter labextension install @jupyterlab/toc
