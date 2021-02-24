@@ -2,6 +2,8 @@
 
 Bienvenue au cours de Python du DU Bii. Vous trouverez toutes les informations ici : <https://du-bii.github.io/module-2-Python>.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DU-Bii/module-2-Python/HEAD?urlpath=lab/tree/notebooks)
+
 ## License
 
 ![](img/CC-BY-SA.png)
