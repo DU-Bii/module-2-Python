@@ -39,7 +39,11 @@ Les enseignements seront donnés sous forme de cours / TP, quelques minutes de t
 
 À titre indicatif, nous détaillons dans la suite le découpage des différentes séances. Ce découpage est succeptible de changer en fonction du degré d'avancement de l'ensemble des stagiaires. N'hésitez pas à revenir régulièrement sur cette page pendant la formation.
 
-Le cours est intégralement disponible [en ligne](https://python.sdv.univ-paris-diderot.fr/). Les corrections des exercices se trouvent sur la [page Moodle du cours](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
+## Ressources
+
+- Le cours [en ligne](https://python.sdv.univ-paris-diderot.fr/).
+- Les corrections des exercices sur la [page Moodle du cours](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
+- Le Jupyer Hub de l'IFB : <https://jupyterhub.cluster.france-bioinformatique.fr/>
 
 
 ### Séance 1 -- mardi 2 mars : 9h30 - 12h30
