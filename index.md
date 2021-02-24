@@ -43,7 +43,7 @@ Les enseignements seront donnés sous forme de cours / TP, quelques minutes de t
 
 - Le cours [en ligne](https://python.sdv.univ-paris-diderot.fr/).
 - Les corrections des exercices sur la [page Moodle du cours](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
-- Le Jupyer Hub de l'IFB : <https://jupyterhub.cluster.france-bioinformatique.fr/>
+- Le serveur [Jupyter Hub](https://jupyterhub.cluster.france-bioinformatique.fr/) de l'IFB
 
 
 ### Séance 1 -- mardi 2 mars : 9h30 - 12h30
