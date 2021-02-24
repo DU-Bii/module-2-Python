@@ -3,8 +3,10 @@ Bienvenue au cours de Python du DU Bii. Vous trouverez sur ce dépôt toutes les
 ---
 ## Intervenants
 
-1. Sandra Dérozier, INRAE, `<sandra.derozier@inrae.fr>` (co-responsable)
-2. Pierre Poulain, Université de Paris, `<pierre.poulain@u-paris.fr>` (co-responsable)
+1. Sandra Dérozier, INRAE, `<sandra.derozier@inrae.fr>`  
+    (co-responsable)
+2. Pierre Poulain, Université de Paris, `<pierre.poulain@u-paris.fr>`  
+    (co-responsable)
 3. Hubert Santuz, CNRS, `<hubert.santuz@ibpc.fr>`
 4. Magali Hennion, CNRS, `<hennion@bio.ens.psl.eu>`
 5. Benoist Laurent, IBPC, `<benoist@ibpc.fr>`
@@ -17,7 +19,7 @@ Un certain nombre de prérequis sont à préparer avant le premier cours. Ils so
 
 ## Synopsis
 
-Dans ce cours, nous allons voir les bases du langage Python. Au-delà de l'apprentissage de la syntaxe du langage Python, nous allons voir progressivement quelques bases d'algorithmie, c'est-à-dire comment transformer un problème énoncé en français, en une suite d'instructions informatiques.
+Dans ce cours, nous allons voir les bases du langage Python. Au-delà de l'apprentissage de la syntaxe du langage Python, nous aborderons quelques bases d'algorithmie, c'est-à-dire comment transformer un problème énoncé en français, en une suite d'instructions informatiques.
 
 L'apprentissage de la programmation est un processus nécessitant un certain investissement. Ainsi, nous vous conseillons de faire un maximum d'exercices sur une base régulière afin d'acquérir certains automatismes. 
 
@@ -25,9 +27,9 @@ L'apprentissage de la programmation est un processus nécessitant un certain inv
 
 - Lire des fichiers contenant des données biologiques et rechercher des contenus spécifiques dans ces fichiers.
 - Changer le format des données d'un fichier en un autre.
-- Faire des calculs de base sur les données extraites des fichiers.
+- Faire des calculs de base sur les données extraites de fichiers.
 - Réaliser une suite de tâches plus ou moins complexes.
-- Avoir les bases pour continuer à vous former par vous même après la fin du DU.
+- Continuer à vous former par vous même après la fin du DU.
 
 En outre, vous apprendrez également à utiliser des modules incontournables en analyse de données (pandas, numpy, matplolib) en bioinformatique.
 
