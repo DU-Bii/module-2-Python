@@ -54,8 +54,7 @@ Helpers : Hubert Santuz, Magali Hennion, Benoist Laurent & Julie Lao
 Programme : [introdcution et prise en main du Jupyter Lab](Python_seance1_introduction.pdf), révisions des notions travaillées en autonomie. 
 [Variables](https://python.sdv.univ-paris-diderot.fr/02_variables/), 
 [affichage](https://python.sdv.univ-paris-diderot.fr/03_affichage/), 
-[listes](https://python.sdv.univ-paris-diderot.fr/04_listes/), 
-[boucles et comparaisons](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/).
+[listes](https://python.sdv.univ-paris-diderot.fr/04_listes/).
 
 <!--
 
