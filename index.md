@@ -44,7 +44,7 @@ Les enseignements seront donnés sous forme de cours / TP, quelques minutes de t
 - Le cours [en ligne](https://python.sdv.univ-paris-diderot.fr/).
 - Les corrections des exercices sur la [page Moodle du cours](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
 - Le serveur [Jupyter Hub](https://jupyterhub.cluster.france-bioinformatique.fr/) de l'IFB
-
+- Les corrections des exercices sur trouvent dans le répertoire `/shared/projects/dubii2021/trainers/module2/corrections/` sur le serveur de l'IFB.
 
 ### Séance 1 -- mardi 2 mars : 9h30 - 12h30
 
@@ -58,9 +58,6 @@ Programme : [introduction et prise en main du Jupyter Lab](Python_seance1_introd
 
 <!--
 
-**Corrections des exercices**
-
-Les corrections des exercices se trouvent sur [Moodle](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
 
 **Liens vers des articles intéressants**
 
