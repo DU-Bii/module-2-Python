@@ -42,7 +42,6 @@ Les enseignements seront donnés sous forme de cours / TP, quelques minutes de t
 ## Ressources
 
 - Le cours [en ligne](https://python.sdv.univ-paris-diderot.fr/).
-- Les corrections des exercices sur la [page Moodle du cours](https://moodlesupd.script.univ-paris-diderot.fr/mod/folder/view.php?id=171492).
 - Le serveur [Jupyter Hub](https://jupyterhub.cluster.france-bioinformatique.fr/) de l'IFB
 - Les corrections des exercices sur trouvent dans le répertoire `/shared/projects/dubii2021/trainers/module2/corrections/` sur le serveur de l'IFB.
 
