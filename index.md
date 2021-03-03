@@ -64,16 +64,6 @@ Programme : [introduction et prise en main du Jupyter Lab](Python_seance1_introd
 * Un article intéressant qui montre l'importance de la programmation en biologie et qui évoque Python bien sûr ! [Ten simple rules for biologists learning to programURL](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005871)
 -->
 
-Travail pour la prochaine séance :
-
-- Lire le [chapitre 8 Modules](https://python.sdv.univ-paris-diderot.fr/08_modules/)
-- Faire les exercices :
-  - [6.7.5 Notes et mention d'un étudiant](https://python.sdv.univ-paris-diderot.fr/06_tests/#675-notes-et-mention-dun-etudiant)
-  - [6.7.7 Conjecture de Syracuse](https://python.sdv.univ-paris-diderot.fr/06_tests/#677-conjecture-de-syracuse-exercice) (si pas terminé en séance)
-  - [8.7.4 Affichage temporisé](https://python.sdv.univ-paris-diderot.fr/08_modules/#874-affichage-temporise)
-  - [8.7.6 Séquences aléatoires d'ADN](https://python.sdv.univ-paris-diderot.fr/08_modules/#876-sequences-aleatoires-dadn) (en option)
-
-
 ### Séance 2 -- mercredi 3 mars : 14h30 - 17h30
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
@@ -83,6 +73,15 @@ Programme :
 [boucles et comparaisons](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/), 
 [tests](https://python.sdv.univ-paris-diderot.fr/06_tests/), 
 [fichiers](https://python.sdv.univ-paris-diderot.fr/07_fichiers/).
+
+Travail pour la prochaine séance :
+
+- Lire le [chapitre 8 Modules](https://python.sdv.univ-paris-diderot.fr/08_modules/)
+- Faire les exercices :
+  - [6.7.5 Notes et mention d'un étudiant](https://python.sdv.univ-paris-diderot.fr/06_tests/#675-notes-et-mention-dun-etudiant)
+  - [6.7.7 Conjecture de Syracuse](https://python.sdv.univ-paris-diderot.fr/06_tests/#677-conjecture-de-syracuse-exercice) (si pas terminé en séance)
+  - [8.7.4 Affichage temporisé](https://python.sdv.univ-paris-diderot.fr/08_modules/#874-affichage-temporise)
+  - [8.7.6 Séquences aléatoires d'ADN](https://python.sdv.univ-paris-diderot.fr/08_modules/#876-sequences-aleatoires-dadn) (en option)
 
 <!--
 
