@@ -79,7 +79,7 @@ Travail pour la prochaine séance :
 - Lire le [chapitre 8 Modules](https://python.sdv.univ-paris-diderot.fr/08_modules/)
 - Faire les exercices :
   - [6.7.5 Notes et mention d'un étudiant](https://python.sdv.univ-paris-diderot.fr/06_tests/#675-notes-et-mention-dun-etudiant)
-  - [6.7.7 Conjecture de Syracuse](https://python.sdv.univ-paris-diderot.fr/06_tests/#677-conjecture-de-syracuse-exercice) (si pas terminé en séance)
+  - [7.7.1 Moyenne des notes](https://python.sdv.univ-paris-diderot.fr/07_fichiers/#771-moyenne-des-notes)
   - [8.7.4 Affichage temporisé](https://python.sdv.univ-paris-diderot.fr/08_modules/#874-affichage-temporise)
   - [8.7.6 Séquences aléatoires d'ADN](https://python.sdv.univ-paris-diderot.fr/08_modules/#876-sequences-aleatoires-dadn) (en option)
 
