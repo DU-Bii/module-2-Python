@@ -1,4 +1,4 @@
-# Projet matplotlib
+# Analyse et une visualisation de données
 
 Ouvrez une session sur le Jupyter Hub de l'IFB.
 
