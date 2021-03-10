@@ -4,7 +4,7 @@ Ouvrez une session sur le Jupyter Hub de l'IFB.
 
 Ouvrez ensuite un terminal Bash.
 
-Créez le répertoire `module-2-projet-matplotlib` puis déplacez-vous dans ce répertoire.
+Créez le répertoire `module-2-analyse-visu` puis déplacez-vous dans ce répertoire.
 
 ## Téléchargement et préparation des fichiers
 
