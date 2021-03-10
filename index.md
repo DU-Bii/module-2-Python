@@ -101,7 +101,7 @@ Instructeurs : Sandra Dérozier & Pierre Poulain
 Helpers : Hubert Santuz, Magali Hennion, Benoist Laurent & Julie Lao
 
 Programme :
-[notebook Jupyter](https://python.sdv.univ-paris-diderot.fr/18_jupyter/) (et [aussi](https://cupnet.net/intro-jupyter-dubii/)), 
+[notebook Jupyter](https://python.sdv.univ-paris-diderot.fr/18_jupyter/) (et [aussi](https://cupnet.net/intro-jupyter/) + [tutoriel](https://cupnet.net/intro-jupyter/tuto_DUBII)), 
 [modules](https://python.sdv.univ-paris-diderot.fr/08_modules/), 
 [matplotlib](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#173-module-matplotlib).
 
