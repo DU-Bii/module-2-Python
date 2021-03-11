@@ -1,4 +1,4 @@
-# Analyse et visualisation de données
+# Notebook Jupyter "Analyse et visualisation de données"
 
 Ouvrez une session sur le Jupyter Hub de l'IFB.
 
@@ -35,5 +35,5 @@ Suivez les instructions et complétez le notebook.
 
 ## Rendu
 
-Vous déposerez votre notebook au format `.ipynb` et `.html` (menu *File* -> *Export Notebook As* -> *Export Notebook to HTML*) dans ce [questionnaire](https://forms.gle/NzaqLqPq9p3AkyWCA).
+Vous déposerez votre notebook au format `.ipynb` et `.html` (menu *File* -> *Export Notebook As* -> *Export Notebook to HTML*) via ce [questionnaire](https://forms.gle/NzaqLqPq9p3AkyWCA).
 
