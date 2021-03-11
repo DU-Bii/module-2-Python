@@ -8,7 +8,7 @@ Créez le répertoire `module-2-analyse-visu` puis déplacez-vous dans ce réper
 
 ## Téléchargement et préparation des fichiers
 
-Téléchargez les fichiers nécessaires pour le projet :
+Téléchargez les fichiers nécessaires pour le projet en exécutant les 3 instructions Bash ci-dessous :
 
 ```
 wget https://raw.githubusercontent.com/DU-Bii/module-2-Python/master/evaluations/analyse_visu/analyse-visu.ipynb
