@@ -306,16 +306,15 @@ Programme : cas d’applications à l'analyse et la visualisation de données om
 
 ## Évaluations
 
-Notebook Jupyter "Analyse et une visualisation de données"
-- [instructions](evaluations/analyse_visu/index.md)
-- pour le vendredi 19 mars 18h00
+### Notebook Jupyter "Analyse et une visualisation de données"
+[Instructions](evaluations/analyse_visu/index.md). À rendre pour le vendredi 19 mars 18h00.
 
-QCM
-- pour le vendredi 26 mars 18h00
+### QCM
+À faire pour le vendredi 26 mars 18h00.
 
 
-Mini-projet
-- pour le vendredi 7 mai 18h00
+### Mini-projet
+À rendre pour le vendredi 7 mai 18h00.
 
 <!--
 
