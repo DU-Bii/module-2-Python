@@ -1,10 +1,10 @@
-# Analyse et une visualisation de données
+# Analyse et visualisation de données
 
 Ouvrez une session sur le Jupyter Hub de l'IFB.
 
 Ouvrez ensuite un terminal Bash.
 
-Créez le répertoire `module-2-analyse-visu` puis déplacez-vous dans ce répertoire.
+Dans votre répertoire personnel, créez le répertoire `module-2-analyse-visu` puis déplacez-vous dans ce répertoire.
 
 ## Téléchargement et préparation des fichiers
 
