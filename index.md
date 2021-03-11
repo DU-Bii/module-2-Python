@@ -306,7 +306,7 @@ Programme : cas d’applications à l'analyse et la visualisation de données om
 
 ## Évaluations
 
-Analyse et une visualisation de données
+Notebook Jupyter "Analyse et une visualisation de données"
 - [instructions](evaluations/analyse_visu/index.md)
 - pour le vendredi 19 mars 18h00
 
