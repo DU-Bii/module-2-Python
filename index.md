@@ -215,7 +215,7 @@ Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](h
 
 -->
 
-### Séance 4 -- jeudi 23 mars : 9h30 - 12h30
+### Séance 4 -- mardi 23 mars : 9h30 - 12h30
 
 Instructeurs : Sandra Dérozier & Hubert Santuz  
 Helpers : Pierre Poulain, Magali Hennion, Benoist Laurent & Julie Lao
@@ -254,7 +254,7 @@ Pour vous aider dans ces tâches :
 
 -->
 
-### Séance 5 -- jeudi 23 mars : 14h00 - 17h00
+### Séance 5 -- mardi 23 mars : 14h00 - 17h00
 
 Instructeurs : Sandra Dérozier & Pierre Poulain  
 Helpers : Hubert Santuz, Magali Hennion & Julie Lao
