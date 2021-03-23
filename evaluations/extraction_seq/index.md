@@ -23,7 +23,7 @@ S_cerevisiae_annotations.gff
 S_cerevisiae_chromosomes.fna
 ```
 
-Renommer ensuite le notebooks `extract-seq.ipynb` en extract-seq-<votre-login>.ipynb` où `<votre-login>` est votre login sur le cluster.
+Renommer ensuite le notebooks `extract-seq.ipynb` en `extract-seq-<votre-login>.ipynb` où `<votre-login>` est votre login sur le cluster.
 
 
 ## Extraction de séquences avec Python
