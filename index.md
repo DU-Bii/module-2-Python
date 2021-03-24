@@ -105,115 +105,6 @@ Programme :
 [modules](https://python.sdv.univ-paris-diderot.fr/08_modules/), 
 [matplotlib](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#173-module-matplotlib) ([cheat sheets](https://github.com/matplotlib/cheatsheets) et [référence](https://www.python-graph-gallery.com/)).
 
-<!--
-
-**Un peu de travail pour la prochaine séance**
-
-- Refaire le [TP sur Jupyter](https://cupnet.net/intro-jupyter-dubii/)
-- [Exo 5.4.12](https://python.sdv.univ-paris-diderot.fr/05_boucles_comparaisons/#5412-parcours-de-demi-matrice-sans-la-diagonale-exercice) Parcours de demi-matrice sans la diagonale
-- [Exo 6.7.9 (méthode 2)](https://python.sdv.univ-paris-diderot.fr/06_tests/#methode-2-plus-optimale-et-plus-rapide-mais-un-peu-plus-compliquee) Détermination des nombres premiers inférieurs à 100
-- [Exo 8.7.9](https://python.sdv.univ-paris-diderot.fr/08_modules/#879-determination-du-nombre-pi-par-la-methode-monte-carlo-exercice) Détermination du nombre pi par la méthode Monte-Carlo ; si vous vous sentez capable, vous pouvez essayer de faire l'exercice dans un notebook jupyter et de faire un plot inspiré de la [page Wikipedia sur le Monte-Carlo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pi_30K.gif/440px-Pi_30K.gif) : les points dans le cercle en rouge, les points or du cercle en bleu. Vous pouvez utiliser pour cela la fonction `plt.scatter(x, y)`. Cette fonction dessine un nuage de points dans un graphe, par exemple :
-
-```
-import matplotlib.pyplot as plt
-
-x = [1, 3, 4, 4, 7, 8, 2, 5, 7, 2]
-y = [8, 9, 1, 2, 9, 4, 2, 2, 2, 8]
-
-plt.scatter(x,y)
-plt.show() # inutile dans un notebook, obligatoire dans un script lancé dans un shell
-```
-
-- Lire les chapitres [10 Plus sur les chaînes de caractères](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/) et [11 Plus sur les listes](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/)
-- Faire le [QCM d'entraînement](https://moodlesupd.script.univ-paris-diderot.fr/mod/quiz/view.php?id=225633)
-
-### Exercices pour ne pas perdre la main pendant le confinement
-
-#### Correction du Monte-Carlo pour la détermination du nombre pi
-
-Le notebook corrigeant l'exo 8.7.9 est [ici pour le regarder](https://github.com/DU-Bii/module-2-Python/blob/master/data/pi_MC.ipynb), pour le télécharger c'est [ici](data/pi_MC.ipynb).
-
-#### Exo du 3 avril 2020
-
-Télécharger la séquence du [génome du SARS-COV2 au format fasta](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.3?report=fasta). Dans le même répertoire, créer un script nommé `compo_sars_cov2.py` qui calcule la composition en ATGC de ce génome. Voici les différentes étapes proposées :
-- Ouvrir le fichier en lecture avec `with` et récupérer la séquence dans une chaine de caractères `seq` ;
-- Attention à ne pas récupérer la première ligne qui commence par le caractère `>` (tiens n'y avait-il pas une méthode pour ça dans le chapitre 10 ;-) ???) ;
-- Attention à chaque ligne il vous faudra enlever le retour à la ligne (*hint* la méthode `.strip()` est votre amie, cf. chapitre 10 ;-) !) ;
-- Une fois la séquence récupérée, faire une boucle sur tout le génome et calculer le nombre de ATGC ;
-- Au final on souhaite la sortie suivante (où vous remplacerez les X par les vraies valeurs) :
-
-```
-La longueur du génome est XXXXX bases
-nbA =  XXXX bases ; %age A = XX.XX %
-nbT =  XXXX bases ; %age T = XX.XX %
-nbG =  XXXX bases ; %age G = XX.XX %
-nbC =  XXXX bases ; %age C = XX.XX %
-```
-- Ainsi qu'un graphe en batons avec matplotlib du pourcentage d'ATGC.
-
-*Pour les warriors* : vous pouvez faire ça dans un notebook jupyter !
-
-*Ajout du 22/04/2020* : voici une correction possible dans un [notebook jupyter](https://github.com/DU-Bii/module-2-Python/blob/master/data/compo_sars_cov2.ipynb), c'est [ici](data/compo_sars_cov2.ipynb) pour le télécharger.
-
-#### Exo du 21 avril 2020
-
-Sur la base de l'exercice précédent, on se propose de faire une représentation du génome du SARS-COV2 en [chaos game](https://en.wikipedia.org/wiki/Chaos_game). Cette méthode de représentation basée sur les fractales comme le [triangle de Sierpinski](https://fr.wikipedia.org/wiki/Triangle_de_Sierpi%C5%84ski) permet d'avoir une vision d'un génome en un coup d'oeil ([ici](http://www.cs.gettysburg.edu/~ilinkin/projects/bio/chaosgame/home.html) un exemple).
-
-Voici l'algorithme du chaos game appliqué à une séquence d'ADN :
-
-- Soit une séquence d’ADN seq de longueur suffisante (> 10000 pb)
-- Soit un espace carré où les 4 sommets de ce carré représentent les 4 bases ATGC
-- Au départ, on se place au milieu du carré
-- On lit la séquence nucléotide par nucléotide
-  - A chaque nucléotide lu, on se déplace au centre du segment entre la position actuelle et le sommet représentant le nucléotide actuellement lu
-
-Un exemple est illustré ci-dessous sur le début d’une séquence d’ADN :
-
-![](img/chaos_game.png)
-
-Comme montré dans le schéma, on pourra arbitrairement décider que le C possède les coordonnées (0,0), G(1,0), A(0,1) et T (1,1). Pour tracer les points, vous pourrez utiliser la fonction `plt.scatter()` de matplotlib (cf. exo de calcul de Pi par Monte-Carlo).
-
-Conseils : 
-
-- Faites-vous la main sur une séquence très courte, puis une fois que ça fonctionne passez sur le génome du virus.
-- Une pixelle représente un nucléotide, on utilise la même couleur pour toute les pixelles. Chaque pixelle doit être très petite : avec la fonction `plt.scatter()`, utilisez les arguments `s=1` (*size*) et `linewidth=0`.
-- Si vous mettez une instruction `plt.scatter(x, y)` à chaque itération de la boucle principale, le code sera très long à tourner pour le génome du virus (> 10'). Stockez plutôt les coordonnées *x* et *y* de vos points dans des listes puis passez ces listes comme argument à la fonction `plt.scatter()` une fois la boucle principale terminée.
-
-Bien sûr vous pouvez vous amuser à faire l'exercice dans un notebook Jupyter :wink:.
-
-Pour vous convaincre de l'utilité du chaos game pour comparer des séquences génomiques, vous pouvez lancer votre code sur un autre coronavirus (par exemple [FJ882960.1](https://www.ncbi.nlm.nih.gov/nuccore/FJ882960.1?report=fasta)), puis sur un virus d'une autre famille comme le HIV (par exemple [D86068.1](https://www.ncbi.nlm.nih.gov/nuccore/D86068.1?report=fasta)). Vous verrez en un coup d'oeil l'emprunte de chaque séquence apparaître :-) ! Avec cette technique, il est possible de classer les espèces :-) !
-
-Si vous souhaitez mettre plusieurs graphes sur une même figure, vous pouvez utiliser la fonction `subplots()` de matplotlib :
-
-```
-fig, axs = plt.subplots(2, 2, figsize=(10, 10))
-
-# plot 1
-axs[0, 0].scatter(...)
-axs[0, 0].set_title(...)
-axs[0, 0].axis("off")
-
-# plot 2
-axs[0, 1].scatter(...)
-axs[0, 1].set_title(...)
-axs[0, 1].axis("off")
-
-# plot 3
-axs[1, 0].scatter(...)
-axs[1, 0].set_title(...)
-axs[1, 0].axis("off")
-
-# Pas de plot 4
-#axs[1, 1].plot()
-#axs[1, 1].set_title()
-axs[1, 1].axis("off")
-```
-
-Si vous souhaitez aller un peu plus loin sur le chaos game, voici un [article](https://doi.org/10.1093/oxfordjournals.molbev.a026048) faisant le tour de la technique.
-
-*Ajout du 25/05/2020* : voici une correction possible dans un [notebook jupyter](https://github.com/DU-Bii/module-2-Python/blob/master/data/chaos_game_sars_cov2.ipynb), c'est [ici](data/chaos_game_sars_cov2.ipynb) pour le télécharger.
-
--->
 
 ### Séance 4 -- mardi 23 mars : 9h30 - 12h30
 
@@ -225,34 +116,6 @@ Programme :
 [plus sur les listes](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/), 
 [Numpy](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#171-module-numpy).
 
-<!--
-
-**Travail à faire de votre côté**
-
-Pour cette séance nous vous proposons les tâches suivantes à réaliser de votre côté (à votre rythme) :
-
-- Pour se remettre en jambe : relire le [chapitre 10 *Plus sur les chaînes de caractères*](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/).
-- Faire le nouvel exercice [10.7.12 Compteur de gènes dans un fichier GenBank](https://python.sdv.univ-paris-diderot.fr/10_plus_sur_les_chaines_de_caracteres/#10712-compteur-de-genes-dans-un-fichier-genbank).
-- Relire le [chapitre 11 *Plus sur les listes*](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/).
-- Faire les exercices [11.6.1 Tri liste](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/#1161-tri-de-liste), [11.6.2 Séquence d'ADN aléatoire](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/#1162-sequence-dadn-aleatoire), [11.6.4 Doublons](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/#1164-doublons), [11.6.6 Nombre mystère](https://python.sdv.univ-paris-diderot.fr/11_plus_sur_les_listes/#1166-le-nombre-mystere).
-- Lire le [chapitre 17.1 *NumPy*](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#171-module-numpy). Comme il y a pas mal de nouvelles notions, il peut être intéressant de le lire une première fois puis d'y revenir à tête reposée. Durant votre lecture, nous vous conseillons d'avoir un interpréteur ouvert pour pouvoir tester au fur et à mesure ce que vous lisez.
-- Faire les exercices [17.6.2 Jour le plus chaud](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#1762-jour-le-plus-chaud) et [17.6.3 Calcul du centre de masse d'une membrane](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#1763-calcul-du-centre-de-masse-dune-membrane).
-
-Afin de ne pas vous charger, chaque exercice n'est pas très long mais il est important de les réaliser avant que l'on aborde les deux séances suivantes. 
-
-Pour vous aider dans ces tâches :
-
-- Nous vous fournirons les solutions commentées des exercices un peu + tard dans la semaine (n'hésitez pas à nous solliciter si cela tarde).
-- Nous vous proposerons (plusieurs si tout va bien) plage(s) de conférence sur Zoom afin que vous nous posiez toutes les questions que vous voulez.
-- Bien sûr vous pourrez nous poser des questions sur Slack si vous êtes bloqués. Il peut être intéressant de le faire sur le canal promotion2020 afin que tout le monde puisse bénéficier de la réponse.
-
-*Ajout du 03/06/2020* : Suite à notre visio du 2 juin 2020 et les différentes demandes qui ont été faites, voici quelques ressources supplémentaires :
-
-- La correction de l'exercice 10.7.12 Compteur de gènes en [vidéo](https://youtu.be/TtRS7pR3ApE). Même si vous avez réussi l'exercice, cette vidéo peut être instructive pour tout le monde car elle montre la démarche d'élaboration du code. De plus, il s'agit d'un exercice typique de *parsing* auquel on est confronté en permanence en analyse de données.
-- Une [page de blog](https://www.sharpsightlabs.com/blog/numpy-axes-explained/) donnant une explication claire (avec des schémas) de la notion d'`axis` en NumPy (inutile de lire la partie *NumPy concatenate*).
-- La [vidéo](https://www.youtube.com/watch?v=UHAlagIQIV4) de notre visio du 2 juin 2020 sur *NumPy* si vous souhaitez y revenir.
-
--->
 
 ### Séance 5 -- mardi 23 mars : 14h00 - 17h00
 
@@ -263,29 +126,6 @@ Programme :
 [dictionnaires, tuples et sets](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/), 
 [Pandas](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#174-module-pandas).
 
-<!--
-**Travail à faire de votre côté**
-
-- Lire [chapitre 13 Dicos + Tuples](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/) (sauter la partie sur les sets et les dictionnaires de compréhension, attention version en ligne légèrement différente du poly).
-- Faire exos [13.6.1 Composition en AA](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/#1361-composition-en-acides-amines), [13.6.2 compo en mots de 2 et 3 lettres](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/#1362-mots-de-2-et-3-lettres-dans-une-sequence-dadn) et [13.6.3 composition mots de 2 lettres S. Cerevisiae](https://python.sdv.univ-paris-diderot.fr/13_dictionnaires_tuples_sets/#1363-mots-de-2-lettres-dans-la-sequence-du-chromosome-i-de-saccharomyces-cerevisiae) (vous pouvez faire ces exercices sans créer de fonction comme cela est demandé dans l'énoncé). Si vous n'avez pas le temps de faire les trois, faites au moin le premier.
-- Lire [chapitre 17.4 Pandas](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#174-module-pandas).
-- Faire exo [17.6.5 Analyse d'un jeu de données avec pandas](https://python.sdv.univ-paris-diderot.fr/17_modules_interet_bioinfo/#1765-analyse-dun-jeu-de-donnees-avec-pandas).
-
-Les solutions des exercices seront mises en ligne le jeudi 4 juin 2020. 
-
-Souvenez-vous par ailleurs que vous aurez un QCM noté à faire après la séance du vendredi 5 juin 2020.
-
-*Ajout du 09/06/2020* :
-
-- La [vidéo](https://www.youtube.com/watch?v=_YOTDfST7z0) de notre visio du 5 juin 2020 sur NumPy si vous souhaitez y revenir.
-- Lien vers le [QCM](https://moodlesupd.script.univ-paris-diderot.fr/mod/quiz/view.php?id=247229) à faire avant le 18 juin 2020.
-
-*Ajout du 10/06/2020* : 
-
-- La [vidéo](https://youtu.be/IM7419iEpAA) de correction de l'exercice 13.6.3 comptage des mots de 2 lettres (avec des dictionnaires).
-- La [vidéo](https://www.youtube.com/watch?v=m-4_K_GghuQ) de correction de l'exercice 17.6.5 Analyse d'un jeu de données avec pandas.
-
--->
 
 ### Séance 6 -- jeudi 25 mars : 9h00 - 12h00
 
@@ -294,12 +134,39 @@ Helpers : Hubert Santuz, Magali Hennion, Benoist Laurent & Julie Lao
 
 Programme : cas d’applications à l'analyse et la visualisation de données omiques.
 
+Si le jupyter Hub de l'IFB est en carafe, ouvrez un terminal sur votre **machine locale**, puis exécutez les commandes suivantes :
+```
+$ mkdir -p $USER/dubii/module-2
+$ cd $USER/dubii/module-2
+$ git clone https://github.com/pierrepo/python-omics-use-cases
+$ git clone https://github.com/sderozier/python-notebooks-use-cases
+$ conda activate dubii2021-python
+$ jupyter lab
+```
+
+Rappel : le caractère `$` en début de ligne n'est pas à entrer. Il indique simplement le début d'une ligne de commande.
+
+L'interface Jupyter Lab devrait se lancer dans votre navigateur web.
+
+Depuis cette interface, vous pouvez naviguer dans :
+
+- le répertoire `python-notebooks-use-cases/notebooks/` pour découvrir les notebooks :
+  - `formats.ipynb` : manipulation de différents formats de fichiers (FASTA, FastQ, GenBank, GFF).
+  - `comptage_rnaseq.ipynb` : exploration de données de comptage RNA-Seq
+
+- le répertoire `python-omics-use-cases/notebooks` pour découvrir les notebooks :
+  - `volcano_plot.ipynb` : construction d'un volcano plot, représentation graphique couramment utilisée lors de l'analyse de données omiques, dans cet exemple avec des donnée de protéomique. Utilisation des bibliothèques graphiques Matplotlib et Bokeh.
+  - `fusion_donnees.ipynb` : fusion de deux jeux de données avec pandas. Un premier jeu de données avec des résultats de protéomique et un second avec des descriptions de protéines provenant d'UniProt.
+   - `acp_recettes.ipynb` : analyse en composantes principales avec la bibliothèque Scikit-learn. Et cette fois, sans donnée omique ;-)
+
+
+Le notebook `formats.ipynb` sera expliqué car vous pourrez vous en servir pour votre projet.
+
+Pour les autres notebooks, vous choisirez lesquels vous souhaitez une démo et des explications : [ici](https://www.wooclap.com/ZZDBYC)
+
 <!--
 **Ressources :**
 
-- La [vidéo](https://www.youtube.com/watch?v=7EOLJHAndXE) de notre vision du 11 juin 2020.
-- Des exemples d'utilisation de Python pour l'analyse de données omiques : <https://github.com/pierrepo/python-omics-use-cases>
-- D'autres exemples d'utilisation de Python en bioinformatique : <https://github.com/sderozier/python-notebooks-use-cases>
 - Un exemple de visualisation d'arbre phylogénétique : <https://github.com/sderozier/python-notebook-tree/> (**remarque :** ce *notebook* n'est pas accessible aux utilisateurs de PowerShell)
 
 -->
