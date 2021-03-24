@@ -160,7 +160,7 @@ Depuis cette interface, vous pouvez naviguer dans :
    - `acp_recettes.ipynb` : analyse en composantes principales avec la bibliothèque Scikit-learn. Et cette fois, sans donnée omique ;-)
 
 
-Le notebook `formats.ipynb` sera expliqué car vous pourrez vous en servir pour votre projet.
+Le notebook `formats.ipynb` sera expliqué en priorité car vous pourrez vous en servir pour votre projet.
 
 Pour les autres notebooks, vous choisirez lesquels vous souhaitez une démo et des explications : [ici](https://www.wooclap.com/ZZDBYC)
 
