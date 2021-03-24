@@ -14,7 +14,8 @@ dependencies:
     - scipy
     - pandas
     - pandas-profiling
-    - xlrd
+    - xlrd # to read .xls files with Pandas
+    - openpyxl # to read .xlsx files with Pandas
     - matplotlib
     - seaborn
     - bokeh
