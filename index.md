@@ -164,36 +164,45 @@ Le notebook `formats.ipynb` sera expliqué en priorité car vous pourrez vous en
 
 Pour les autres notebooks, vous choisirez lesquels vous souhaitez une démo et des explications : [ici](https://www.wooclap.com/ZZDBYC)
 
-<!--
-**Ressources :**
-
-- Un exemple de visualisation d'arbre phylogénétique : <https://github.com/sderozier/python-notebook-tree/> (**remarque :** ce *notebook* n'est pas accessible aux utilisateurs de PowerShell)
-
--->
-
 ## Évaluations
 
 ### Notebook Jupyter "Analyse et une visualisation de données"
+
 [Instructions](evaluations/analyse_visu/index.md). À rendre pour le vendredi 19 mars 18h00.
 
 ### QCM
+
 Le QCM est [accessible en ligne](https://docs.google.com/forms/d/e/1FAIpQLScFLrVqTg-q7cua6aclGkPhH_UWfZDQWYu5fE1BlOdnJ-nukw/viewform). À faire pour le vendredi 26 mars 18h00.
 
 
 ### Mini-projet
+
 [Instructions](evaluations/extraction_seq/index.md). À rendre pour le vendredi 7 mai 18h00.
 
-<!--
+## Sur place ou à emporter ?
 
-## Mini projet
+Ce site que vous consultez actuellement et les notebooks *use cases* de démo sont hébergés dans des dépôts Github publics.
 
-Le **notebook Jupyter** et les données pour le mini projet sont disponibles dans le dépôt GitHub suivant : <https://github.com/sderozier/python-mini-projet>.
+Voici les liens pour les explorer depuis votre navigateur où les télécharger sur votre machine ou le serveur de l'IFB :
 
-La démarche à suivre pour récupérer les données du dépôt est décrite dans le fichier [README.md](https://github.com/sderozier/python-mini-projet/blob/master/README.md).
+- https://github.com/DU-Bii/module-2-Python : le site du cours. Le répertoire `notebooks` contient les notebooks de démo présentés en cours.
+  Pour le télécharger :
+  ```
+  $ git clone https://github.com/DU-Bii/module-2-Python
+  ```
 
-Voici l'emplacement du dépôt pour vos projets sous Moodle : <https://moodlesupd.script.univ-paris-diderot.fr/mod/assign/view.php?id=247826>.
+- https://github.com/sderozier/python-notebooks-use-cases : les *use cases* sur formats de fichiers avec Biopython et l'analyse des comptages en RNA-Seq.
+  Pour le télécharger :
+  ```
+  $ git clone https://github.com/sderozier/python-notebooks-use-cases
+  ```
 
--->
+- https://github.com/pierrepo/python-omics-use-cases : les *uses cases* sur la fusion de jeux de données, le volcano plot et l'ACP garantie sans omique.
+  Pour le télécharger :
+  ```
+  $ git clone https://github.com/pierrepo/python-omics-use-cases
+  ```
+
 
 ## License
 
