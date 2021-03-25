@@ -31,7 +31,7 @@ L'apprentissage de la programmation est un processus nécessitant un certain inv
 - Réaliser une suite de tâches plus ou moins complexes.
 - Continuer à vous former par vous même après la fin du DU.
 
-En outre, vous apprendrez également à utiliser des modules incontournables en analyse de données (pandas, numpy, matplolib) en bioinformatique.
+En outre, vous apprendrez également à utiliser des modules incontournables en analyse de données (pandas, numpy, matplotlib) en bioinformatique.
 
 ## Organisation des cours
 
