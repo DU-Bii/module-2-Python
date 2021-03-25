@@ -166,16 +166,16 @@ Pour les autres notebooks, vous choisirez lesquels vous souhaitez une démo et d
 
 ## Évaluations
 
-### Notebook Jupyter "Analyse et une visualisation de données"
+### 1. Notebook Jupyter "Analyse et une visualisation de données"
 
 [Instructions](evaluations/analyse_visu/index.md). À rendre pour le vendredi 19 mars 18h00.
 
-### QCM
+### 2. QCM
 
 Le QCM est [accessible en ligne](https://docs.google.com/forms/d/e/1FAIpQLScFLrVqTg-q7cua6aclGkPhH_UWfZDQWYu5fE1BlOdnJ-nukw/viewform). À faire pour le vendredi 26 mars 18h00.
 
 
-### Mini-projet
+### 3. Mini-projet
 
 [Instructions](evaluations/extraction_seq/index.md). À rendre pour le vendredi 7 mai 18h00.
 
