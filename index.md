@@ -185,20 +185,20 @@ Ce site que vous consultez actuellement et les notebooks *use cases* de démo so
 
 Voici les liens pour les explorer depuis votre navigateur ou les télécharger sur votre machine ou le serveur de l'IFB :
 
-- <https://github.com/DU-Bii/module-2-Python> : le site du cours. Le répertoire `notebooks` contient les notebooks de démo présentés en cours.
-  Pour télécharger ce dépôt :  
+- <https://github.com/DU-Bii/module-2-Python> : le site du cours. Le répertoire `notebooks` contient les notebooks de démo présentés en cours.  
+  Pour télécharger ce dépôt :
   ```bash
   $ git clone https://github.com/DU-Bii/module-2-Python
   ```
 
-- <https://github.com/sderozier/python-notebooks-use-cases> : les *use cases* sur formats de fichiers avec Biopython et l'analyse des comptages en RNA-Seq.
-  Pour télécharger ce dépôt :  
+- <https://github.com/sderozier/python-notebooks-use-cases> : les *use cases* sur formats de fichiers avec Biopython et l'analyse des comptages en RNA-Seq.  
+  Pour télécharger ce dépôt :
   ```bash
   $ git clone https://github.com/sderozier/python-notebooks-use-cases
   ```
 
-- <https://github.com/pierrepo/python-omics-use-cases> : les *uses cases* sur la fusion de jeux de données, le volcano plot et l'ACP garantie sans omique.
-  Pour télécharger ce dépôt :  
+- <https://github.com/pierrepo/python-omics-use-cases> : les *uses cases* sur la fusion de jeux de données, le volcano plot et l'ACP garantie sans omique.   
+  Pour télécharger ce dépôt :
   ```bash
   $ git clone https://github.com/pierrepo/python-omics-use-cases
   ```
