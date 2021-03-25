@@ -191,7 +191,7 @@ Voici les liens pour les explorer depuis votre navigateur ou les télécharger s
   $ git clone https://github.com/DU-Bii/module-2-Python
   ```
 
-- <https://github.com/sderozier/python-notebooks-use-cases> : les *use cases* sur formats de fichiers avec Biopython et l'analyse des comptages en RNA-Seq.  
+- <https://github.com/sderozier/python-notebooks-use-cases> : les *use cases* sur les formats de fichiers avec Biopython et l'analyse des comptages en RNA-Seq.  
   Pour télécharger ce dépôt :
   ```bash
   $ git clone https://github.com/sderozier/python-notebooks-use-cases
