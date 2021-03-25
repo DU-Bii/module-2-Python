@@ -146,7 +146,7 @@ $ jupyter lab
 
 Rappel : le caractère `$` en début de ligne n'est pas à entrer. Il indique simplement le début d'une ligne de commande.
 
-L'interface Jupyter Lab devrait se lancer dans votre navigateur web.
+L'interface Jupyter Lab devrait se lancer dans votre navigateur web. Cela peut prendre du temps, soyez patient.
 
 Depuis cette interface, vous pouvez naviguer dans :
 
